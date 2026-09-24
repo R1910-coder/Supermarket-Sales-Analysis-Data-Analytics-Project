@@ -1,0 +1,501 @@
+invoice_id,branch,city,customer_type,gender,product_line,unit_price,quantity,tax_5percent,total,date,time,payment,cogs,gross_margin_percentage,gross_income,rating,tax_5,year,month,month_name,day_name,day,hour,calculated_sales,sales_difference
+INV-10495,B,Nashik,Member,Male,Food And Beverages,21.36,5.0,5.34,112.14,2027-05-10,09:01:00,Cash,106.8,4.7619,5.34,4.7,5.34,2027,5,May,Monday,10,9,112.14,0.0
+INV-10421,C,Mumbai,Normal,Male,Sports And Travel,14.01,4.0,2.8,58.84,2027-02-25,14:00:00,Credit Card,56.04,4.7619,2.8,3.3,2.8,2027,2,February,Thursday,25,14,58.84,0.0
+INV-10238,A,Pune,Normal,Male,Food And Beverages,90.9,4.0,18.18,381.78,2026-08-26,21:18:00,Credit Card,363.6,4.7619,18.18,4.1,18.18,2026,8,August,Wednesday,26,21,381.78,0.0
+INV-10104,B,Nashik,Member,Female,Fashion Accessories,61.57,7.0,21.55,452.54,2026-04-14,16:33:00,Credit Card,430.99,4.7619,21.55,3.1,21.55,2026,4,April,Tuesday,14,16,452.54,0.0
+INV-10176,A,Pune,Normal,Male,Home And Lifestyle,66.64,8.0,26.66,559.78,2026-06-25,21:56:00,Credit Card,533.12,4.7619,26.66,4.9,26.66,2026,6,June,Thursday,25,21,559.78,0.0
+INV-10463,C,Mumbai,Member,Male,Sports And Travel,71.54,7.0,25.04,525.82,2027-04-08,16:54:00,Upi,500.78,4.7619,25.04,4.5,25.04,2027,4,April,Thursday,8,16,525.82,0.0
+INV-10405,A,Pune,Member,Male,Food And Beverages,94.36,1.0,4.72,99.08,2027-02-09,19:33:00,Upi,94.36,4.7619,4.72,2.9,4.72,2027,2,February,Tuesday,9,19,99.08,0.0
+INV-10047,A,Pune,Member,Female,Health And Beauty,67.15,8.0,26.86,564.06,2026-02-16,17:36:00,Upi,537.2,4.7619,26.86,4.1,26.86,2026,2,February,Monday,16,17,564.06,0.0
+INV-10180,A,Pune,Normal,Female,Electronic Accessories,43.43,8.0,17.37,364.81,2026-06-29,13:09:00,Upi,347.44,4.7619,17.37,4.1,17.37,2026,6,June,Monday,29,13,364.81,0.0
+INV-10031,B,Nashik,Normal,Male,Health And Beauty,67.62,9.0,30.43,639.01,2026-01-31,10:31:00,Cash,608.58,4.7619,30.43,4.2,30.43,2026,1,January,Saturday,31,10,639.01,0.0
+INV-10232,B,Nashik,Normal,Male,Sports And Travel,59.47,4.0,11.89,249.77,2026-08-20,17:16:00,Cash,237.88,4.7619,11.89,4.5,11.89,2026,8,August,Thursday,20,17,249.77,0.0
+INV-10215,C,Mumbai,Member,Female,Fashion Accessories,49.89,1.0,2.49,52.38,2026-08-03,17:55:00,Upi,49.89,4.7619,2.49,4.3,2.49,2026,8,August,Monday,3,17,52.38,0.0
+INV-10007,A,Pune,Normal,Female,Sports And Travel,34.71,8.0,13.88,291.56,2026-01-07,12:31:00,Upi,277.68,4.7619,13.88,4.1,13.88,2026,1,January,Wednesday,7,12,291.56,0.0
+INV-10094,B,Nashik,Member,Female,Electronic Accessories,57.92,1.0,2.9,60.82,2026-04-04,10:13:00,Upi,57.92,4.7619,2.9,4.5,2.9,2026,4,April,Saturday,4,10,60.82,0.0
+INV-10385,C,Mumbai,Normal,Male,Fashion Accessories,77.25,6.0,23.18,486.68,2027-01-20,11:50:00,Cash,463.5,4.7619,23.18,4.1,23.18,2027,1,January,Wednesday,20,11,486.68,0.0
+INV-10365,C,Mumbai,Member,Female,Health And Beauty,98.38,9.0,44.27,929.69,2026-12-31,09:02:00,Credit Card,885.42,4.7619,44.27,4.1,44.27,2026,12,December,Thursday,31,9,929.69,0.0
+INV-10338,C,Mumbai,Member,Female,Electronic Accessories,80.24,2.0,8.02,168.5,2026-12-04,17:40:00,Cash,160.48,4.7619,8.02,2.7,8.02,2026,12,December,Friday,4,17,168.5,0.0
+INV-10407,B,Nashik,Normal,Female,Food And Beverages,66.81,5.0,16.7,350.75,2027-02-11,19:31:00,Upi,334.05,4.7619,16.7,4.4,16.7,2027,2,February,Thursday,11,19,350.75,0.0
+INV-10085,A,Pune,Normal,Male,Sports And Travel,80.76,5.0,20.19,423.99,2026-03-26,13:18:00,Credit Card,403.8,4.7619,20.19,3.2,20.19,2026,3,March,Thursday,26,13,423.99,0.0
+INV-10359,C,Mumbai,Normal,Female,Sports And Travel,12.06,5.0,3.02,63.32,2026-12-25,11:47:00,Upi,60.3,4.7619,3.02,5.0,3.02,2026,12,December,Friday,25,11,63.32,0.0
+INV-10373,A,Pune,Normal,Female,Home And Lifestyle,43.43,9.0,19.54,410.41,2027-01-08,15:52:00,Cash,390.87,4.7619,19.54,2.8,19.54,2027,1,January,Friday,8,15,410.41,0.0
+INV-10313,A,Pune,Member,Male,Sports And Travel,27.46,1.0,1.37,28.83,2026-11-09,11:43:00,Credit Card,27.46,4.7619,1.37,4.6,1.37,2026,11,November,Monday,9,11,28.83,0.0
+INV-10041,A,Pune,Normal,Male,Health And Beauty,99.59,2.0,9.96,209.14,2026-02-10,11:18:00,Upi,199.18,4.7619,9.96,3.4,9.96,2026,2,February,Tuesday,10,11,209.14,0.0
+INV-10445,C,Mumbai,Member,Female,Electronic Accessories,45.41,4.0,9.08,190.72,2027-03-21,17:32:00,Upi,181.64,4.7619,9.08,4.8,9.08,2027,3,March,Sunday,21,17,190.72,0.0
+INV-10155,C,Mumbai,Member,Female,Sports And Travel,86.32,9.0,38.84,815.72,2026-06-04,13:12:00,Upi,776.88,4.7619,38.84,4.5,38.84,2026,6,June,Thursday,4,13,815.72,0.0
+INV-10235,A,Pune,Member,Male,Food And Beverages,48.19,4.0,9.64,202.4,2026-08-23,18:56:00,Credit Card,192.76,4.7619,9.64,3.9,9.64,2026,8,August,Sunday,23,18,202.4,0.0
+INV-10452,B,Nashik,Normal,Female,Fashion Accessories,75.26,5.0,18.82,395.12,2027-03-28,11:18:00,Upi,376.3,4.7619,18.82,3.9,18.82,2027,3,March,Sunday,28,11,395.12,0.0
+INV-10178,B,Nashik,Member,Female,Sports And Travel,15.82,5.0,3.96,83.06,2026-06-27,14:09:00,Credit Card,79.1,4.7619,3.96,3.9,3.96,2026,6,June,Saturday,27,14,83.06,0.0
+INV-10127,C,Mumbai,Member,Male,Home And Lifestyle,35.0,9.0,15.75,330.75,2026-05-07,16:11:00,Cash,315.0,4.7619,15.75,3.6,15.75,2026,5,May,Thursday,7,16,330.75,0.0
+INV-10282,A,Pune,Normal,Male,Sports And Travel,60.2,6.0,18.06,379.26,2026-10-09,14:53:00,Upi,361.2,4.7619,18.06,3.9,18.06,2026,10,October,Friday,9,14,379.26,0.0
+INV-10384,C,Mumbai,Member,Female,Electronic Accessories,99.2,9.0,44.64,937.44,2027-01-19,13:19:00,Credit Card,892.8,4.7619,44.64,4.1,44.64,2027,1,January,Tuesday,19,13,937.44,0.0
+INV-10424,B,Nashik,Normal,Male,Fashion Accessories,34.81,10.0,17.4,365.5,2027-02-28,09:33:00,Cash,348.1,4.7619,17.4,3.8,17.4,2027,2,February,Sunday,28,9,365.5,0.0
+INV-10008,C,Unknown,Normal,Male,Sports And Travel,63.73,1.0,3.19,66.92,2026-01-08,14:54:00,Credit Card,63.73,4.7619,3.19,3.9,3.19,2026,1,January,Thursday,8,14,66.92,0.0
+INV-10311,B,Nashik,Normal,Female,Health And Beauty,89.33,7.0,31.27,656.58,2026-11-07,13:26:00,Cash,625.31,4.7619,31.27,3.9,31.27,2026,11,November,Saturday,7,13,656.58,0.0
+INV-10168,A,Pune,Member,Male,Fashion Accessories,47.67,9.0,21.45,450.48,2026-06-17,11:27:00,Credit Card,429.03,4.7619,21.45,4.2,21.45,2026,6,June,Wednesday,17,11,450.48,0.0
+INV-10116,C,Mumbai,Normal,Female,Food And Beverages,69.97,7.0,24.49,514.28,2026-04-26,20:56:00,Cash,489.79,4.7619,24.49,3.2,24.49,2026,4,April,Sunday,26,20,514.28,0.0
+INV-10092,C,Mumbai,Normal,Female,Sports And Travel,66.52,8.0,26.61,558.77,2026-04-02,14:51:00,Upi,532.16,4.7619,26.61,4.5,26.61,2026,4,April,Thursday,2,14,558.77,0.0
+INV-10414,B,Nashik,Member,Male,Food And Beverages,30.27,4.0,6.05,127.13,2027-02-18,14:48:00,Cash,121.08,4.7619,6.05,4.4,6.05,2027,2,February,Thursday,18,14,127.13,0.0
+INV-10103,A,Pune,Member,Male,Electronic Accessories,96.16,9.0,43.27,908.71,2026-04-13,10:17:00,Upi,865.44,4.7619,43.27,4.2,43.27,2026,4,April,Monday,13,10,908.71,0.0
+INV-10072,A,Pune,Normal,Male,Health And Beauty,15.68,2.0,1.57,32.93,2026-03-13,18:12:00,Cash,31.36,4.7619,1.57,4.1,1.57,2026,3,March,Friday,13,18,32.93,0.0
+INV-10403,B,Nashik,Member,Male,Home And Lifestyle,53.28,3.0,7.99,167.83,2027-02-07,19:54:00,Credit Card,159.84,4.7619,7.99,3.9,7.99,2027,2,February,Sunday,7,19,167.83,0.0
+INV-10033,A,Pune,Normal,Male,Fashion Accessories,63.35,2.0,6.34,133.04,2026-02-02,14:42:00,Upi,126.7,4.7619,6.34,4.3,6.34,2026,2,February,Monday,2,14,133.04,0.0
+INV-10207,A,Pune,Member,Male,Food And Beverages,44.77,5.0,11.19,235.04,2026-07-26,12:56:00,Credit Card,223.85,4.7619,11.19,4.9,11.19,2026,7,July,Sunday,26,12,235.04,0.0
+INV-10051,C,Mumbai,Normal,Female,Health And Beauty,48.04,6.0,14.41,302.65,2026-02-20,13:59:00,Upi,288.24,4.7619,14.41,4.8,14.41,2026,2,February,Friday,20,13,302.65,0.0
+INV-10050,A,Pune,Normal,Male,Sports And Travel,46.85,4.0,9.37,196.77,2026-02-19,16:07:00,Cash,187.4,4.7619,9.37,5.0,9.37,2026,2,February,Thursday,19,16,196.77,0.0
+INV-10280,C,Mumbai,Normal,Male,Home And Lifestyle,98.06,1.0,4.9,102.96,2026-10-07,10:18:00,Credit Card,98.06,4.7619,4.9,4.9,4.9,2026,10,October,Wednesday,7,10,102.96,0.0
+INV-10263,A,Pune,Member,Female,Health And Beauty,43.84,1.0,2.19,46.03,2026-09-20,21:30:00,Credit Card,43.84,4.7619,2.19,3.7,2.19,2026,9,September,Sunday,20,21,46.03,0.0
+INV-10153,A,Pune,Normal,Male,Home And Lifestyle,25.64,4.0,5.13,107.69,2026-06-02,15:40:00,Upi,102.56,4.7619,5.13,4.7,5.13,2026,6,June,Tuesday,2,15,107.69,0.0
+INV-10306,C,Mumbai,Normal,Male,Health And Beauty,49.04,7.0,17.16,360.44,2026-11-02,16:41:00,Upi,343.28,4.7619,17.16,5.0,17.16,2026,11,November,Monday,2,16,360.44,0.0
+INV-10480,B,Nashik,Normal,Male,Sports And Travel,51.41,3.0,7.71,161.94,2027-04-25,14:04:00,Credit Card,154.23,4.7619,7.71,3.3,7.71,2027,4,April,Sunday,25,14,161.94,0.0
+INV-10196,B,Nashik,Normal,Female,Sports And Travel,19.19,6.0,5.76,120.9,2026-07-15,09:39:00,Upi,115.14,4.7619,5.76,3.9,5.76,2026,7,July,Wednesday,15,9,120.9,0.0
+INV-10398,B,Nashik,Normal,Male,Fashion Accessories,53.765,1.0,0.75,56.45,2027-02-02,15:15:00,Credit Card,53.76,4.7619,2.69,5.0,2.69,2027,2,February,Tuesday,2,15,56.46,-0.01
+INV-10464,B,Nashik,Member,Female,Health And Beauty,59.06,4.0,11.81,248.05,2027-04-09,11:49:00,Cash,236.24,4.7619,11.81,3.5,11.81,2027,4,April,Friday,9,11,248.05,0.0
+INV-10049,B,Nashik,Normal,Male,Electronic Accessories,25.34,5.0,6.34,133.04,2026-02-18,13:12:00,Upi,126.7,4.7619,6.34,5.0,6.34,2026,2,February,Wednesday,18,13,133.04,0.0
+INV-10210,A,Pune,Normal,Male,Sports And Travel,90.05,5.0,22.51,472.76,2026-07-29,12:12:00,Upi,450.25,4.7619,22.51,3.7,22.51,2026,7,July,Wednesday,29,12,472.76,0.0
+INV-10334,A,Pune,Member,Male,Food And Beverages,55.18,10.0,27.59,579.39,2026-11-30,18:44:00,Upi,551.8,4.7619,27.59,4.7,27.59,2026,11,November,Monday,30,18,579.39,0.0
+INV-10289,A,Pune,Member,Male,Electronic Accessories,75.52,1.0,3.78,79.3,2026-10-16,19:52:00,Credit Card,75.52,4.7619,3.78,4.3,3.78,2026,10,October,Friday,16,19,79.3,0.0
+INV-10413,C,Mumbai,Normal,Female,Sports And Travel,15.16,1.0,0.76,15.92,2027-02-17,13:36:00,Upi,15.16,4.7619,0.76,4.8,0.76,2027,2,February,Wednesday,17,13,15.92,0.0
+INV-10045,A,Pune,Normal,Female,Sports And Travel,17.99,1.0,0.9,18.89,2026-02-14,15:02:00,Upi,17.99,4.7619,0.9,2.3,0.9,2026,2,February,Saturday,14,15,18.89,0.0
+INV-10343,A,Pune,Member,Male,Fashion Accessories,26.05,7.0,9.12,191.47,2026-12-09,17:28:00,Upi,182.35,4.7619,9.12,3.1,9.12,2026,12,December,Wednesday,9,17,191.47,0.0
+INV-10119,C,Mumbai,Normal,Male,Sports And Travel,55.55,4.0,11.11,233.31,2026-04-29,09:42:00,Credit Card,222.2,4.7619,11.11,3.3,11.11,2026,4,April,Wednesday,29,9,233.31,0.0
+INV-10459,A,Pune,Member,Male,Fashion Accessories,11.98,10.0,5.99,125.79,2027-04-04,16:21:00,Upi,119.8,4.7619,5.99,4.6,5.99,2027,4,April,Sunday,4,16,125.79,0.0
+INV-10112,A,Pune,Normal,Male,Home And Lifestyle,84.64,2.0,8.46,177.74,2026-04-22,09:22:00,Credit Card,169.28,4.7619,8.46,3.9,8.46,2026,4,April,Wednesday,22,9,177.74,0.0
+INV-10163,B,Nashik,Normal,Male,Fashion Accessories,25.92,3.0,3.89,81.65,2026-06-12,15:44:00,Cash,77.76,4.7619,3.89,5.0,3.89,2026,6,June,Friday,12,15,81.65,0.0
+INV-10349,B,Nashik,Normal,Female,Health And Beauty,88.68,6.0,26.6,558.68,2026-12-15,11:44:00,Credit Card,532.08,4.7619,26.6,3.3,26.6,2026,12,December,Tuesday,15,11,558.68,0.0
+INV-10087,C,Mumbai,Member,Female,Sports And Travel,60.99,2.0,6.1,128.08,2026-03-28,14:30:00,Cash,121.98,4.7619,6.1,3.8,6.1,2026,3,March,Saturday,28,14,128.08,0.0
+INV-10165,A,Pune,Member,Female,Home And Lifestyle,96.74,3.0,14.51,304.73,2026-06-14,17:23:00,Credit Card,290.22,4.7619,14.51,4.1,14.51,2026,6,June,Sunday,14,17,304.73,0.0
+INV-10435,A,Pune,Member,Female,Food And Beverages,60.58,3.0,9.09,190.83,2027-03-11,12:31:00,Credit Card,181.74,4.7619,9.09,3.0,9.09,2027,3,March,Thursday,11,12,190.83,0.0
+INV-10345,B,Nashik,Member,Male,Fashion Accessories,25.02,4.0,5.0,105.08,2026-12-11,19:55:00,Credit Card,100.08,4.7619,5.0,3.9,5.0,2026,12,December,Friday,11,19,105.08,0.0
+INV-10114,C,Mumbai,Member,Male,Sports And Travel,95.75,8.0,38.3,804.3,2026-04-24,16:40:00,Upi,766.0,4.7619,38.3,2.9,38.3,2026,4,April,Friday,24,16,804.3,0.0
+INV-10058,A,Pune,Member,Male,Health And Beauty,20.78,5.0,5.2,109.1,2026-02-27,14:10:00,Upi,103.9,4.7619,5.2,5.0,5.2,2026,2,February,Friday,27,14,109.1,0.0
+INV-10175,B,Nashik,Member,Male,Health And Beauty,85.09,4.0,17.02,357.38,2026-06-24,19:34:00,Cash,340.36,4.7619,17.02,2.8,17.02,2026,6,June,Wednesday,24,19,357.38,0.0
+INV-10217,A,Pune,Normal,Female,Electronic Accessories,13.42,8.0,5.37,112.73,2026-08-05,14:58:00,Upi,107.36,4.7619,5.37,4.2,5.37,2026,8,August,Wednesday,5,14,112.73,0.0
+INV-10212,C,Mumbai,Normal,Male,Home And Lifestyle,89.42,9.0,40.24,845.02,2026-07-31,11:08:00,Cash,804.78,4.7619,40.24,4.1,40.24,2026,7,July,Friday,31,11,845.02,0.0
+INV-10221,B,Nashik,Normal,Female,Fashion Accessories,19.48,8.0,7.79,163.63,2026-08-09,10:33:00,Credit Card,155.84,4.7619,7.79,4.1,7.79,2026,8,August,Sunday,9,10,163.63,0.0
+INV-10004,B,Nashik,Normal,Female,Fashion Accessories,66.88,9.0,30.1,632.02,2026-01-04,11:18:00,Credit Card,601.92,4.7619,30.1,3.2,30.1,2026,1,January,Sunday,4,11,632.02,0.0
+INV-10203,A,Pune,Member,Male,Sports And Travel,32.78,5.0,8.2,172.1,2026-07-22,15:31:00,Credit Card,163.9,4.7619,8.2,4.4,8.2,2026,7,July,Wednesday,22,15,172.1,0.0
+INV-10432,C,Mumbai,Normal,Female,Electronic Accessories,86.78,5.0,21.7,455.6,2027-03-08,21:54:00,Upi,433.9,4.7619,21.7,3.8,21.7,2027,3,March,Monday,8,21,455.6,0.0
+INV-10259,B,Nashik,Normal,Female,Food And Beverages,53.765,3.0,2.09,169.36,2026-09-16,13:05:00,Cash,161.3,4.7619,8.06,3.4,8.06,2026,9,September,Wednesday,16,13,169.36,0.0
+INV-10303,B,Nashik,Normal,Male,Fashion Accessories,18.44,5.0,4.61,96.81,2026-10-30,13:27:00,Cash,92.2,4.7619,4.61,3.8,4.61,2026,10,October,Friday,30,13,96.81,0.0
+INV-10172,A,Pune,Normal,Female,Food And Beverages,27.07,7.0,9.47,198.96,2026-06-21,14:53:00,Upi,189.49,4.7619,9.47,3.5,9.47,2026,6,June,Sunday,21,14,198.96,0.0
+INV-10294,B,Nashik,Normal,Female,Food And Beverages,53.96,7.0,18.89,396.61,2026-10-21,12:46:00,Upi,377.72,4.7619,18.89,4.1,18.89,2026,10,October,Wednesday,21,12,396.61,0.0
+INV-10195,A,Pune,Member,Male,Health And Beauty,21.98,9.0,9.89,207.71,2026-07-14,15:27:00,Upi,197.82,4.7619,9.89,4.2,9.89,2026,7,July,Tuesday,14,15,207.71,0.0
+INV-10389,C,Mumbai,Member,Male,Electronic Accessories,60.9,7.0,21.32,447.62,2027-01-24,11:35:00,Cash,426.3,4.7619,21.32,4.0,21.32,2027,1,January,Sunday,24,11,447.62,0.0
+INV-10101,A,Pune,Member,Male,Fashion Accessories,23.84,2.0,2.38,50.06,2026-04-11,16:17:00,Upi,47.68,4.7619,2.38,5.0,2.38,2026,4,April,Saturday,11,16,50.06,0.0
+INV-10029,B,Nashik,Member,Female,Food And Beverages,70.26,8.0,28.1,590.18,2026-01-29,21:30:00,Cash,562.08,4.7619,28.1,4.1,28.1,2026,1,January,Thursday,29,21,590.18,0.0
+INV-10052,C,Mumbai,Normal,Male,Electronic Accessories,83.96,6.0,25.19,528.95,2026-02-21,17:00:00,Credit Card,503.76,4.7619,25.19,3.6,25.19,2026,2,February,Saturday,21,17,528.95,0.0
+INV-10346,B,Nashik,Member,Female,Electronic Accessories,26.32,6.0,7.9,165.82,2026-12-12,11:20:00,Cash,157.92,4.7619,7.9,3.5,7.9,2026,12,December,Saturday,12,11,165.82,0.0
+INV-10209,A,Pune,Member,Female,Sports And Travel,30.43,1.0,1.52,31.95,2026-07-28,19:52:00,Credit Card,30.43,4.7619,1.52,3.6,1.52,2026,7,July,Tuesday,28,19,31.95,0.0
+INV-10261,B,Nashik,Member,Male,Home And Lifestyle,63.87,1.0,3.19,67.06,2026-09-18,10:13:00,Credit Card,63.87,4.7619,3.19,4.3,3.19,2026,9,September,Friday,18,10,67.06,0.0
+INV-10475,B,Nashik,Member,Female,Food And Beverages,22.69,8.0,9.08,190.6,2027-04-20,17:27:00,Credit Card,181.52,4.7619,9.08,2.7,9.08,2027,4,April,Tuesday,20,17,190.6,0.0
+INV-10329,B,Nashik,Normal,Male,Health And Beauty,78.28,3.0,11.74,246.58,2026-11-25,21:19:00,Upi,234.84,4.7619,11.74,3.4,11.74,2026,11,November,Wednesday,25,21,246.58,0.0
+INV-10143,B,Nashik,Member,Female,Sports And Travel,16.72,6.0,5.02,105.34,2026-05-23,12:18:00,Upi,100.32,4.7619,5.02,3.3,5.02,2026,5,May,Saturday,23,12,105.34,0.0
+INV-10264,B,Nashik,Normal,Female,Health And Beauty,59.51,3.0,8.93,187.46,2026-09-21,11:29:00,Credit Card,178.53,4.7619,8.93,3.7,8.93,2026,9,September,Monday,21,11,187.46,0.0
+INV-10073,A,Pune,Member,Female,Home And Lifestyle,20.59,10.0,10.3,216.2,2026-03-14,16:46:00,Credit Card,205.9,4.7619,10.3,4.3,10.3,2026,3,March,Saturday,14,16,216.2,0.0
+INV-10323,B,Nashik,Member,Female,Sports And Travel,57.17,3.0,8.58,180.09,2026-11-19,12:52:00,Credit Card,171.51,4.7619,8.58,3.7,8.58,2026,11,November,Thursday,19,12,180.09,0.0
+INV-10223,A,Pune,Member,Female,Health And Beauty,55.77,9.0,25.1,527.03,2026-08-11,20:22:00,Cash,501.93,4.7619,25.1,4.2,25.1,2026,8,August,Tuesday,11,20,527.03,0.0
+INV-10360,B,Nashik,Member,Male,Electronic Accessories,38.99,5.0,9.75,204.7,2026-12-26,15:45:00,Upi,194.95,4.7619,9.75,3.9,9.75,2026,12,December,Saturday,26,15,204.7,0.0
+INV-10189,B,Nashik,Normal,Female,Health And Beauty,68.65,9.0,30.89,648.74,2026-07-08,12:23:00,Cash,617.85,4.7619,30.89,3.8,30.89,2026,7,July,Wednesday,8,12,648.74,0.0
+INV-10375,A,Pune,Member,Female,Fashion Accessories,82.12,6.0,24.64,517.36,2027-01-10,15:44:00,Upi,492.72,4.7619,24.64,3.6,24.64,2027,1,January,Sunday,10,15,517.36,0.0
+INV-10003,C,Mumbai,Member,Female,Fashion Accessories,33.12,2.0,3.31,69.55,2026-01-03,14:16:00,Cash,66.24,4.7619,3.31,4.0,3.31,2026,1,January,Saturday,3,14,69.55,0.0
+INV-10126,B,Nashik,Member,Female,Health And Beauty,88.85,10.0,44.42,932.92,2026-05-06,14:47:00,Upi,888.5,4.7619,44.42,3.8,44.42,2026,5,May,Wednesday,6,14,932.92,0.0
+INV-10270,A,Pune,Normal,Female,Food And Beverages,54.64,6.0,16.39,344.23,2026-09-27,19:12:00,Upi,327.84,4.7619,16.39,3.7,16.39,2026,9,September,Sunday,27,19,344.23,0.0
+INV-10419,C,Mumbai,Normal,Male,Fashion Accessories,11.21,8.0,4.48,94.16,2027-02-23,16:14:00,Cash,89.68,4.7619,4.48,3.7,4.48,2027,2,February,Tuesday,23,16,94.16,0.0
+INV-10493,A,Pune,Member,Female,Electronic Accessories,77.87,6.0,23.36,490.58,2027-05-08,16:25:00,Cash,467.22,4.7619,23.36,2.7,23.36,2027,5,May,Saturday,8,16,490.58,0.0
+INV-10192,C,Mumbai,Member,Male,Sports And Travel,87.36,4.0,17.47,366.91,2026-07-11,18:59:00,Credit Card,349.44,4.7619,17.47,3.6,17.47,2026,7,July,Saturday,11,18,366.91,0.0
+INV-10391,C,Mumbai,Normal,Female,Sports And Travel,24.88,8.0,9.95,208.99,2027-01-26,21:22:00,Credit Card,199.04,4.7619,9.95,3.3,9.95,2027,1,January,Tuesday,26,21,208.99,0.0
+INV-10081,C,Mumbai,Member,Male,Health And Beauty,35.17,3.0,5.28,110.79,2026-03-22,09:16:00,Credit Card,105.51,4.7619,5.28,4.9,5.28,2026,3,March,Sunday,22,9,110.79,0.0
+INV-10366,B,Nashik,Normal,Male,Health And Beauty,28.89,6.0,8.67,182.01,2027-01-01,16:26:00,Upi,173.34,4.7619,8.67,4.6,8.67,2027,1,January,Friday,1,16,182.01,0.0
+INV-10460,A,Pune,Normal,Female,Fashion Accessories,74.8,1.0,3.74,78.54,2027-04-05,11:56:00,Credit Card,74.8,4.7619,3.74,3.7,3.74,2027,4,April,Monday,5,11,78.54,0.0
+INV-10011,A,Pune,Normal,Male,Fashion Accessories,50.12,3.0,7.52,157.88,2026-01-11,09:23:00,Credit Card,150.36,4.7619,7.52,5.0,7.52,2026,1,January,Sunday,11,9,157.88,0.0
+INV-10447,C,Mumbai,Member,Male,Electronic Accessories,80.89,5.0,20.22,424.67,2027-03-23,11:52:00,Cash,404.45,4.7619,20.22,4.8,20.22,2027,3,March,Tuesday,23,11,424.67,0.0
+INV-10142,A,Pune,Member,Female,Food And Beverages,25.36,1.0,1.27,26.63,2026-05-22,17:20:00,Cash,25.36,4.7619,1.27,3.6,1.27,2026,5,May,Friday,22,17,26.63,0.0
+INV-10064,B,Nashik,Member,Female,Fashion Accessories,70.44,7.0,24.65,517.73,2026-03-05,21:18:00,Credit Card,493.08,4.7619,24.65,3.7,24.65,2026,3,March,Thursday,5,21,517.73,0.0
+INV-10065,A,Pune,Member,Male,Electronic Accessories,18.36,5.0,4.59,96.39,2026-03-06,19:37:00,Upi,91.8,4.7619,4.59,3.5,4.59,2026,3,March,Friday,6,19,96.39,0.0
+INV-10062,A,Pune,Member,Female,Fashion Accessories,79.17,6.0,23.75,498.77,2026-03-03,21:31:00,Upi,475.02,4.7619,23.75,5.0,23.75,2026,3,March,Tuesday,3,21,498.77,0.0
+INV-10248,C,Mumbai,Normal,Male,Electronic Accessories,53.04,8.0,21.22,445.54,2026-09-05,17:45:00,Upi,424.32,4.7619,21.22,3.0,21.22,2026,9,September,Saturday,5,17,445.54,0.0
+INV-10397,C,Mumbai,Member,Female,Home And Lifestyle,80.43,1.0,4.02,84.45,2027-02-01,14:35:00,Credit Card,80.43,4.7619,4.02,3.8,4.02,2027,2,February,Monday,1,14,84.45,0.0
+INV-10156,A,Pune,Member,Female,Electronic Accessories,75.19,8.0,30.08,631.6,2026-06-05,12:30:00,Credit Card,601.52,4.7619,30.08,3.4,30.08,2026,6,June,Friday,5,12,631.6,0.0
+INV-10054,C,Mumbai,Normal,Female,Health And Beauty,37.08,9.0,16.69,350.41,2026-02-23,10:39:00,Credit Card,333.72,4.7619,16.69,4.5,16.69,2026,2,February,Monday,23,10,350.41,0.0
+INV-10318,A,Pune,Member,Male,Food And Beverages,83.36,4.0,16.67,350.11,2026-11-14,19:33:00,Upi,333.44,4.7619,16.67,5.0,16.67,2026,11,November,Saturday,14,19,350.11,0.0
+INV-10440,A,Pune,Normal,Male,Home And Lifestyle,31.31,9.0,14.09,295.88,2027-03-16,18:32:00,Cash,281.79,4.7619,14.09,4.8,14.09,2027,3,March,Tuesday,16,18,295.88,0.0
+INV-10474,C,Mumbai,Member,Female,Home And Lifestyle,48.58,2.0,4.86,102.02,2027-04-19,09:04:00,Cash,97.16,4.7619,4.86,4.5,4.86,2027,4,April,Monday,19,9,102.02,0.0
+INV-10082,B,Nashik,Normal,Female,Electronic Accessories,94.81,9.0,42.66,895.95,2026-03-23,17:29:00,Credit Card,853.29,4.7619,42.66,3.4,42.66,2026,3,March,Monday,23,17,895.95,0.0
+INV-10100,A,Pune,Member,Male,Electronic Accessories,12.06,3.0,1.81,37.99,2026-04-10,19:22:00,Upi,36.18,4.7619,1.81,5.0,1.81,2026,4,April,Friday,10,19,37.99,0.0
+INV-10157,C,Mumbai,Member,Female,Food And Beverages,81.29,8.0,32.52,682.84,2026-06-06,10:15:00,Credit Card,650.32,4.7619,32.52,3.8,32.52,2026,6,June,Saturday,6,10,682.84,0.0
+INV-10009,B,Nashik,Normal,Male,Sports And Travel,70.83,10.0,35.42,743.72,2026-01-09,18:35:00,Upi,708.3,4.7619,35.42,4.2,35.42,2026,1,January,Friday,9,18,743.72,0.0
+INV-10482,C,Mumbai,Normal,Male,Health And Beauty,36.15,7.0,12.65,265.7,2027-04-27,15:03:00,Cash,253.05,4.7619,12.65,2.8,12.65,2027,4,April,Tuesday,27,15,265.7,0.0
+INV-10274,C,Mumbai,Member,Female,Fashion Accessories,38.52,4.0,7.7,161.78,2026-10-01,12:34:00,Cash,154.08,4.7619,7.7,3.4,7.7,2026,10,October,Thursday,1,12,161.78,0.0
+INV-10372,A,Pune,Member,Female,Electronic Accessories,31.23,7.0,10.93,229.54,2027-01-07,17:48:00,Credit Card,218.61,4.7619,10.93,3.7,10.93,2027,1,January,Thursday,7,17,229.54,0.0
+INV-10021,B,Nashik,Normal,Male,Health And Beauty,68.08,8.0,27.23,571.87,2026-01-21,17:07:00,Upi,544.64,4.7619,27.23,5.0,27.23,2026,1,January,Wednesday,21,17,571.87,0.0
+INV-10097,B,Nashik,Normal,Female,Home And Lifestyle,29.08,4.0,5.82,122.14,2026-04-07,16:14:00,Upi,116.32,4.7619,5.82,4.1,5.82,2026,4,April,Tuesday,7,16,122.14,0.0
+INV-10086,A,Pune,Member,Male,Fashion Accessories,61.71,8.0,24.68,518.36,2026-03-27,17:24:00,Credit Card,493.68,4.7619,24.68,4.4,24.68,2026,3,March,Friday,27,17,518.36,0.0
+INV-10137,B,Nashik,Normal,Female,Sports And Travel,53.61,7.0,18.76,394.03,2026-05-17,21:36:00,Upi,375.27,4.7619,18.76,4.0,18.76,2026,5,May,Sunday,17,21,394.03,0.0
+INV-10276,B,Nashik,Member,Male,Health And Beauty,33.26,10.0,16.63,349.23,2026-10-03,16:58:00,Credit Card,332.6,4.7619,16.63,3.8,16.63,2026,10,October,Saturday,3,16,349.23,0.0
+INV-10201,B,Nashik,Normal,Male,Health And Beauty,35.14,3.0,5.27,110.69,2026-07-20,17:33:00,Credit Card,105.42,4.7619,5.27,4.3,5.27,2026,7,July,Monday,20,17,110.69,0.0
+INV-10122,C,Mumbai,Member,Female,Electronic Accessories,79.91,7.0,27.97,587.34,2026-05-02,20:03:00,Cash,559.37,4.7619,27.97,3.0,27.97,2026,5,May,Saturday,2,20,587.34,0.0
+INV-10492,B,Nashik,Normal,Male,Sports And Travel,78.26,2.0,7.83,164.35,2027-05-07,17:56:00,Credit Card,156.52,4.7619,7.83,3.7,7.83,2027,5,May,Friday,7,17,164.35,0.0
+INV-10038,A,Pune,Member,Male,Health And Beauty,14.71,7.0,5.15,108.12,2026-02-07,17:23:00,Upi,102.97,4.7619,5.15,5.0,5.15,2026,2,February,Saturday,7,17,108.12,0.0
+INV-10174,A,Pune,Unknown,Female,Food And Beverages,39.12,3.0,5.87,123.23,2026-06-23,13:59:00,Upi,117.36,4.7619,5.87,4.9,5.87,2026,6,June,Tuesday,23,13,123.23,0.0
+INV-10393,B,Nashik,Normal,Female,Electronic Accessories,62.72,7.0,21.95,460.99,2027-01-28,13:24:00,Credit Card,439.04,4.7619,21.95,3.7,21.95,2027,1,January,Thursday,28,13,460.99,0.0
+INV-10138,C,Mumbai,Member,Female,Health And Beauty,77.88,9.0,35.05,735.97,2026-05-18,09:23:00,Credit Card,700.92,4.7619,35.05,4.0,35.05,2026,5,May,Monday,18,9,735.97,0.0
+INV-10371,A,Pune,Member,Female,Fashion Accessories,76.2,3.0,11.43,240.03,2027-01-06,11:33:00,Cash,228.6,4.7619,11.43,4.3,11.43,2027,1,January,Wednesday,6,11,240.03,0.0
+INV-10361,B,Nashik,Normal,Female,Food And Beverages,67.28,1.0,3.36,70.64,2026-12-27,20:45:00,Cash,67.28,4.7619,3.36,3.1,3.36,2026,12,December,Sunday,27,20,70.64,0.0
+INV-10234,B,Nashik,Normal,Male,Home And Lifestyle,16.18,3.0,2.43,50.97,2026-08-22,20:06:00,Credit Card,48.54,4.7619,2.43,3.6,2.43,2026,8,August,Saturday,22,20,50.97,0.0
+INV-10339,B,Nashik,Normal,Female,Food And Beverages,29.55,3.0,4.43,93.08,2026-12-05,13:57:00,Credit Card,88.65,4.7619,4.43,5.0,4.43,2026,12,December,Saturday,5,13,93.08,0.0
+INV-10400,C,Mumbai,Member,Female,Electronic Accessories,30.3,5.0,4.55,159.08,2027-02-04,13:53:00,Upi,151.5,4.7619,7.58,3.4,7.58,2027,2,February,Thursday,4,13,159.08,0.0
+INV-10458,B,Nashik,Member,Male,Food And Beverages,26.47,3.0,3.97,83.38,2027-04-03,15:01:00,Cash,79.41,4.7619,3.97,4.5,3.97,2027,4,April,Saturday,3,15,83.38,0.0
+INV-10465,C,Mumbai,Member,Male,Electronic Accessories,98.25,3.0,14.74,309.49,2027-04-10,15:18:00,Credit Card,294.75,4.7619,14.74,3.5,14.74,2027,4,April,Saturday,10,15,309.49,0.0
+INV-10016,A,Pune,Member,Female,Food And Beverages,64.29,9.0,28.93,607.54,2026-01-16,11:52:00,Upi,578.61,4.7619,28.93,3.3,28.93,2026,1,January,Friday,16,11,607.54,0.0
+INV-10427,B,Nashik,Member,Male,Sports And Travel,43.41,6.0,13.02,273.48,2027-03-03,21:05:00,Cash,260.46,4.7619,13.02,4.8,13.02,2027,3,March,Wednesday,3,21,273.48,0.0
+INV-10394,C,Mumbai,Member,Male,Food And Beverages,62.78,4.0,12.56,263.68,2027-01-29,19:50:00,Credit Card,251.12,4.7619,12.56,4.0,12.56,2027,1,January,Friday,29,19,263.68,0.0
+INV-10037,A,Pune,Normal,Female,Home And Lifestyle,27.13,2.0,2.71,56.97,2026-02-06,20:01:00,Upi,54.26,4.7619,2.71,4.1,2.71,2026,2,February,Friday,6,20,56.97,0.0
+INV-10453,B,Nashik,Member,Female,Health And Beauty,27.21,7.0,9.52,199.99,2027-03-29,20:15:00,Credit Card,190.47,4.7619,9.52,4.8,9.52,2027,3,March,Monday,29,20,199.99,0.0
+INV-10347,B,Nashik,Member,Male,Electronic Accessories,44.89,5.0,11.22,235.67,2026-12-13,11:11:00,Credit Card,224.45,4.7619,11.22,3.7,11.22,2026,12,December,Sunday,13,11,235.67,0.0
+INV-10304,B,Nashik,Normal,Male,Electronic Accessories,61.95,1.0,3.1,65.05,2026-10-31,20:41:00,Credit Card,61.95,4.7619,3.1,3.4,3.1,2026,10,October,Saturday,31,20,65.05,0.0
+INV-10247,B,Nashik,Member,Male,Sports And Travel,96.38,1.0,4.82,101.2,2026-09-04,20:56:00,Cash,96.38,4.7619,4.82,4.0,4.82,2026,9,September,Friday,4,20,101.2,0.0
+INV-10108,C,Mumbai,Member,Male,Health And Beauty,38.24,3.0,5.74,120.46,2026-04-18,09:57:00,Credit Card,114.72,4.7619,5.74,4.4,5.74,2026,4,April,Saturday,18,9,120.46,0.0
+INV-10392,B,Nashik,Normal,Female,Food And Beverages,73.02,5.0,18.26,383.36,2027-01-27,18:49:00,Upi,365.1,4.7619,18.26,4.0,18.26,2027,1,January,Wednesday,27,18,383.36,0.0
+INV-10293,C,Mumbai,Normal,Male,Health And Beauty,96.86,7.0,33.9,711.92,2026-10-20,16:29:00,Credit Card,678.02,4.7619,33.9,4.8,33.9,2026,10,October,Tuesday,20,16,711.92,0.0
+INV-10291,A,Pune,Member,Female,Electronic Accessories,71.68,5.0,17.92,376.32,2026-10-18,15:07:00,Cash,358.4,4.7619,17.92,4.2,17.92,2026,10,October,Sunday,18,15,376.32,0.0
+INV-10288,B,Nashik,Member,Male,Electronic Accessories,58.56,9.0,26.35,553.39,2026-10-15,09:42:00,Credit Card,527.04,4.7619,26.35,3.0,26.35,2026,10,October,Thursday,15,9,553.39,0.0
+INV-10497,B,Nashik,Normal,Female,Fashion Accessories,24.55,7.0,8.59,180.44,2027-05-12,13:27:00,Upi,171.85,4.7619,8.59,5.0,8.59,2027,5,May,Wednesday,12,13,180.44,0.0
+INV-10093,C,Mumbai,Member,Female,Fashion Accessories,70.69,10.0,35.34,742.24,2026-04-03,12:31:00,Unknown,706.9,4.7619,35.34,3.5,35.34,2026,4,April,Friday,3,12,742.24,0.0
+INV-10236,C,Mumbai,Normal,Female,Food And Beverages,17.44,7.0,6.1,128.18,2026-08-24,18:24:00,Upi,122.08,4.7619,6.1,3.5,6.1,2026,8,August,Monday,24,18,128.18,0.0
+INV-10286,A,Pune,Normal,Female,Food And Beverages,77.79,5.0,19.45,408.4,2026-10-13,21:58:00,Credit Card,388.95,4.7619,19.45,4.0,19.45,2026,10,October,Tuesday,13,21,408.4,0.0
+INV-10260,A,Pune,Normal,Male,Food And Beverages,19.97,10.0,9.98,209.68,2026-09-17,14:21:00,Upi,199.7,4.7619,9.98,3.5,9.98,2026,9,September,Thursday,17,14,209.68,0.0
+INV-10148,B,Nashik,Normal,Male,Fashion Accessories,65.62,4.0,13.12,275.6,2026-05-28,15:27:00,Upi,262.48,4.7619,13.12,4.5,13.12,2026,5,May,Thursday,28,15,275.6,0.0
+INV-10135,C,Mumbai,Member,Male,Fashion Accessories,27.26,4.0,5.45,114.49,2026-05-15,15:20:00,Upi,109.04,4.7619,5.45,3.7,5.45,2026,5,May,Friday,15,15,114.49,0.0
+INV-10399,C,Mumbai,Member,Male,Fashion Accessories,86.75,4.0,17.35,364.35,2027-02-03,16:21:00,Credit Card,347.0,4.7619,17.35,5.0,17.35,2027,2,February,Wednesday,3,16,364.35,0.0
+INV-10075,C,Mumbai,Normal,Male,Home And Lifestyle,40.75,3.0,6.11,128.36,2026-03-16,15:02:00,Cash,122.25,4.7619,6.11,4.6,6.11,2026,3,March,Monday,16,15,128.36,0.0
+INV-10476,C,Mumbai,Member,Male,Sports And Travel,69.78,6.0,20.93,439.61,2027-04-21,13:53:00,Cash,418.68,4.7619,20.93,4.0,20.93,2027,4,April,Wednesday,21,13,439.61,0.0
+INV-10181,B,Nashik,Normal,Female,Sports And Travel,33.93,1.0,1.7,35.63,2026-06-30,21:36:00,Cash,33.93,4.7619,1.7,4.0,1.7,2026,6,June,Tuesday,30,21,35.63,0.0
+INV-10187,C,Mumbai,Normal,Male,Fashion Accessories,87.82,5.0,21.96,461.06,2026-07-06,14:16:00,Cash,439.1,4.7619,21.96,3.9,21.96,2026,7,July,Monday,6,14,461.06,0.0
+INV-10342,B,Nashik,Normal,Male,Sports And Travel,10.17,9.0,4.58,96.11,2026-12-08,16:44:00,Upi,91.53,4.7619,4.58,4.2,4.58,2026,12,December,Tuesday,8,16,96.11,0.0
+INV-10455,A,Pune,Member,Male,Food And Beverages,37.78,3.0,5.67,119.01,2027-03-31,18:24:00,Upi,113.34,4.7619,5.67,4.2,5.67,2027,3,March,Wednesday,31,18,119.01,0.0
+INV-10141,C,Mumbai,Member,Female,Electronic Accessories,48.73,3.0,7.31,153.5,2026-05-21,17:29:00,Upi,146.19,4.7619,7.31,3.7,7.31,2026,5,May,Thursday,21,17,153.5,0.0
+INV-10013,C,Mumbai,Normal,Female,Sports And Travel,11.42,7.0,4.0,83.94,2026-01-13,19:10:00,Cash,79.94,4.7619,4.0,3.4,4.0,2026,1,January,Tuesday,13,19,83.94,0.0
+INV-10267,C,Mumbai,Normal,Female,Sports And Travel,34.64,4.0,6.93,145.49,2026-09-24,21:42:00,Upi,138.56,4.7619,6.93,3.8,6.93,2026,9,September,Thursday,24,21,145.49,0.0
+INV-10308,A,Pune,Normal,Female,Health And Beauty,60.22,5.0,15.06,316.16,2026-11-04,10:54:00,Upi,301.1,4.7619,15.06,3.1,15.06,2026,11,November,Wednesday,4,10,316.16,0.0
+INV-10489,C,Mumbai,Member,Female,Food And Beverages,40.58,6.0,12.17,255.65,2027-05-04,16:19:00,Cash,243.48,4.7619,12.17,3.5,12.17,2027,5,May,Tuesday,4,16,255.65,0.0
+INV-10173,B,Nashik,Member,Male,Electronic Accessories,65.71,9.0,29.57,620.96,2026-06-22,09:35:00,Credit Card,591.39,4.7619,29.57,4.5,29.57,2026,6,June,Monday,22,9,620.96,0.0
+INV-10252,B,Nashik,Normal,Male,Food And Beverages,52.69,6.0,15.81,331.95,2026-09-09,12:40:00,Credit Card,316.14,4.7619,15.81,3.3,15.81,2026,9,September,Wednesday,9,12,331.95,0.0
+INV-10434,A,Pune,Normal,Male,Health And Beauty,65.77,5.0,16.44,345.29,2027-03-10,11:25:00,Upi,328.85,4.7619,16.44,4.2,16.44,2027,3,March,Wednesday,10,11,345.29,0.0
+INV-10272,C,Mumbai,Normal,Male,Home And Lifestyle,99.32,1.0,4.97,104.29,2026-09-29,20:43:00,Upi,99.32,4.7619,4.97,3.6,4.97,2026,9,September,Tuesday,29,20,104.29,0.0
+INV-10451,C,Mumbai,Normal,Male,Fashion Accessories,23.05,6.0,6.92,145.22,2027-03-27,21:47:00,Upi,138.3,4.7619,6.92,4.0,6.92,2027,3,March,Saturday,27,21,145.22,0.0
+INV-10005,A,Pune,Normal,Female,Health And Beauty,15.26,8.0,6.1,128.18,2026-01-05,18:47:00,Credit Card,122.08,4.7619,6.1,3.5,6.1,2026,1,January,Monday,5,18,128.18,0.0
+INV-10352,C,Mumbai,Normal,Male,Home And Lifestyle,19.37,2.0,1.94,40.68,2026-12-18,18:39:00,Upi,38.74,4.7619,1.94,4.6,1.94,2026,12,December,Friday,18,18,40.68,0.0
+INV-10295,A,Pune,Member,Female,Fashion Accessories,23.56,9.0,10.6,222.64,2026-10-22,09:42:00,Upi,212.04,4.7619,10.6,4.7,10.6,2026,10,October,Thursday,22,9,222.64,0.0
+INV-10145,A,Pune,Member,Male,Sports And Travel,33.88,2.0,3.39,71.15,2026-05-25,13:41:00,Cash,67.76,4.7619,3.39,3.6,3.39,2026,5,May,Monday,25,13,71.15,0.0
+INV-10055,B,Nashik,Normal,Male,Health And Beauty,98.31,7.0,34.41,722.58,2026-02-24,15:08:00,Upi,688.17,4.7619,34.41,4.3,34.41,2026,2,February,Tuesday,24,15,722.58,0.0
+INV-10164,B,Nashik,Member,Female,Electronic Accessories,44.84,3.0,6.73,141.25,2026-06-13,21:33:00,Cash,134.52,4.7619,6.73,3.7,6.73,2026,6,June,Saturday,13,21,141.25,0.0
+INV-10200,C,Mumbai,Normal,Male,Home And Lifestyle,16.88,1.0,0.84,17.72,2026-07-19,18:58:00,Cash,16.88,4.7619,0.84,4.2,0.84,2026,7,July,Sunday,19,18,17.72,0.0
+INV-10218,C,Mumbai,Normal,Male,Food And Beverages,77.16,1.0,3.86,81.02,2026-08-06,12:39:00,Upi,77.16,4.7619,3.86,4.3,3.86,2026,8,August,Thursday,6,12,81.02,0.0
+INV-10277,C,Mumbai,Member,Female,Electronic Accessories,58.96,7.0,20.64,433.36,2026-10-04,18:56:00,Credit Card,412.72,4.7619,20.64,3.9,20.64,2026,10,October,Sunday,4,18,433.36,0.0
+INV-10383,B,Nashik,Member,Female,Electronic Accessories,71.73,10.0,35.86,753.16,2027-01-18,15:37:00,Credit Card,717.3,4.7619,35.86,3.4,35.86,2027,1,January,Monday,18,15,753.16,0.0
+INV-10246,C,Mumbai,Normal,Female,Food And Beverages,16.23,9.0,7.3,153.37,2026-09-03,16:53:00,Credit Card,146.07,4.7619,7.3,4.4,7.3,2026,9,September,Thursday,3,16,153.37,0.0
+INV-10107,B,Nashik,Member,Male,Food And Beverages,53.14,5.0,13.28,278.98,2026-04-17,17:30:00,Upi,265.7,4.7619,13.28,3.9,13.28,2026,4,April,Friday,17,17,278.98,0.0
+INV-10443,B,Nashik,Normal,Female,Food And Beverages,21.52,1.0,1.08,22.6,2027-03-19,19:28:00,Cash,21.52,4.7619,1.08,4.0,1.08,2027,3,March,Friday,19,19,22.6,0.0
+INV-10449,B,Nashik,Normal,Female,Sports And Travel,54.5,1.0,2.72,57.22,2027-03-25,19:15:00,Credit Card,54.5,4.7619,2.72,3.2,2.72,2027,3,March,Thursday,25,19,57.22,0.0
+INV-10025,B,Nashik,Normal,Male,Electronic Accessories,40.92,9.0,18.41,386.69,2026-01-25,16:18:00,Upi,368.28,4.7619,18.41,4.5,18.41,2026,1,January,Sunday,25,16,386.69,0.0
+INV-10044,C,Mumbai,Normal,Male,Fashion Accessories,62.24,1.0,3.11,65.35,2026-02-13,16:06:00,Credit Card,62.24,4.7619,3.11,3.9,3.11,2026,2,February,Friday,13,16,65.35,0.0
+INV-10317,B,Nashik,Normal,Female,Fashion Accessories,76.81,2.0,7.68,161.3,2026-11-13,16:54:00,Credit Card,153.62,4.7619,7.68,2.9,7.68,2026,11,November,Friday,13,16,161.3,0.0
+INV-10469,A,Pune,Normal,Male,Health And Beauty,81.25,2.0,8.12,170.62,2027-04-14,09:48:00,Upi,162.5,4.7619,8.12,4.4,8.12,2027,4,April,Wednesday,14,9,170.62,0.0
+INV-10266,C,Mumbai,Normal,Male,Fashion Accessories,24.73,3.0,3.71,77.9,2026-09-23,16:43:00,Credit Card,74.19,4.7619,3.71,4.1,3.71,2026,9,September,Wednesday,23,16,77.9,0.0
+INV-10374,C,Mumbai,Member,Female,Home And Lifestyle,15.63,5.0,3.91,82.06,2027-01-09,16:51:00,Cash,78.15,4.7619,3.91,4.6,3.91,2027,1,January,Saturday,9,16,82.06,0.0
+INV-10083,A,Pune,Normal,Male,Sports And Travel,88.6,2.0,8.86,186.06,2026-03-24,13:12:00,Credit Card,177.2,4.7619,8.86,5.0,8.86,2026,3,March,Tuesday,24,13,186.06,0.0
+INV-10167,A,Pune,Member,Female,Electronic Accessories,22.04,3.0,3.31,69.43,2026-06-16,12:17:00,Upi,66.12,4.7619,3.31,4.1,3.31,2026,6,June,Tuesday,16,12,69.43,0.0
+INV-10213,B,Nashik,Member,Female,Electronic Accessories,19.51,4.0,3.9,81.94,2026-08-01,19:07:00,Upi,78.04,4.7619,3.9,4.0,3.9,2026,8,August,Saturday,1,19,81.94,0.0
+INV-10484,B,Nashik,Member,Female,Home And Lifestyle,20.07,8.0,8.03,168.59,2027-04-29,12:53:00,Cash,160.56,4.7619,8.03,4.1,8.03,2027,4,April,Thursday,29,12,168.59,0.0
+INV-10125,A,Pune,Normal,Female,Food And Beverages,94.28,4.0,18.86,395.98,2026-05-05,11:48:00,Credit Card,377.12,4.7619,18.86,4.4,18.86,2026,5,May,Tuesday,5,11,395.98,0.0
+INV-10454,C,Mumbai,Normal,Male,Sports And Travel,40.44,3.0,6.07,127.39,2027-03-30,19:42:00,Upi,121.32,4.7619,6.07,4.1,6.07,2027,3,March,Tuesday,30,19,127.39,0.0
+INV-10102,B,Nashik,Member,Male,Home And Lifestyle,30.13,10.0,15.07,316.37,2026-04-12,20:54:00,Cash,301.3,4.7619,15.07,4.6,15.07,2026,4,April,Sunday,12,20,316.37,0.0
+INV-10436,C,Mumbai,Member,Female,Sports And Travel,41.13,7.0,14.4,302.31,2027-03-12,12:17:00,Upi,287.91,4.7619,14.4,5.0,14.4,2027,3,March,Friday,12,12,302.31,0.0
+INV-10077,C,Mumbai,Member,Female,Fashion Accessories,41.17,4.0,8.23,172.91,2026-03-18,16:54:00,Credit Card,164.68,4.7619,8.23,4.1,8.23,2026,3,March,Wednesday,18,16,172.91,0.0
+INV-10133,A,Pune,Normal,Female,Food And Beverages,44.78,5.0,11.2,235.1,2026-05-13,17:55:00,Upi,223.9,4.7619,11.2,3.6,11.2,2026,5,May,Wednesday,13,17,235.1,0.0
+INV-10500,C,Mumbai,Member,Female,Sports And Travel,60.42,8.0,24.17,507.53,2027-05-15,12:40:00,Cash,483.36,4.7619,24.17,3.5,24.17,2027,5,May,Saturday,15,12,507.53,0.0
+INV-10151,C,Mumbai,Member,Male,Electronic Accessories,30.94,3.0,4.64,97.46,2026-05-31,11:43:00,Cash,92.82,4.7619,4.64,3.6,4.64,2026,5,May,Sunday,31,11,97.46,0.0
+INV-10076,C,Mumbai,Normal,Male,Home And Lifestyle,44.28,9.0,19.93,418.45,2026-03-17,16:22:00,Upi,398.52,4.7619,19.93,5.0,19.93,2026,3,March,Tuesday,17,16,418.45,0.0
+INV-10027,A,Pune,Member,Male,Fashion Accessories,49.82,5.0,12.46,261.56,2026-01-27,19:04:00,Credit Card,249.1,4.7619,12.46,4.7,12.46,2026,1,January,Tuesday,27,19,261.56,0.0
+INV-10381,A,Pune,Member,Female,Home And Lifestyle,54.65,7.0,19.13,401.68,2027-01-16,17:09:00,Upi,382.55,4.7619,19.13,3.7,19.13,2027,1,January,Saturday,16,17,401.68,0.0
+INV-10395,B,Nashik,Normal,Male,Sports And Travel,72.79,5.0,18.2,382.15,2027-01-30,17:47:00,Upi,363.95,4.7619,18.2,4.0,18.2,2027,1,January,Saturday,30,17,382.15,0.0
+INV-10113,C,Mumbai,Normal,Female,Fashion Accessories,38.58,3.0,5.79,121.53,2026-04-23,16:49:00,Credit Card,115.74,4.7619,5.79,3.6,5.79,2026,4,April,Thursday,23,16,121.53,0.0
+INV-10301,A,Pune,Normal,Male,Home And Lifestyle,19.53,8.0,7.81,164.05,2026-10-28,17:36:00,Credit Card,156.24,4.7619,7.81,3.8,7.81,2026,10,October,Wednesday,28,17,164.05,0.0
+INV-10290,B,Nashik,Normal,Male,Sports And Travel,19.71,8.0,7.88,165.56,2026-10-17,10:33:00,Cash,157.68,4.7619,7.88,3.8,7.88,2026,10,October,Saturday,17,10,165.56,0.0
+INV-10369,A,Pune,Normal,Male,Home And Lifestyle,43.61,5.0,4.36,228.95,2027-01-04,16:23:00,Credit Card,218.05,4.7619,10.9,3.4,10.9,2027,1,January,Monday,4,16,228.95,0.0
+INV-10028,B,Nashik,Member,Female,Home And Lifestyle,84.87,5.0,21.22,445.57,2026-01-28,21:46:00,Cash,424.35,4.7619,21.22,4.8,21.22,2026,1,January,Wednesday,28,21,445.57,0.0
+INV-10297,C,Unknown,Normal,Male,Fashion Accessories,47.21,3.0,7.08,148.71,2026-10-24,19:19:00,Upi,141.63,4.7619,7.08,3.3,7.08,2026,10,October,Saturday,24,19,148.71,0.0
+INV-10379,C,Mumbai,Member,Male,Fashion Accessories,25.61,3.0,3.84,80.67,2027-01-14,20:53:00,Credit Card,76.83,4.7619,3.84,4.6,3.84,2027,1,January,Thursday,14,20,80.67,0.0
+INV-10111,A,Pune,Member,Female,Electronic Accessories,90.84,2.0,9.08,190.76,2026-04-21,14:37:00,Upi,181.68,4.7619,9.08,3.5,9.08,2026,4,April,Tuesday,21,14,190.76,0.0
+INV-10462,B,Nashik,Normal,Female,Fashion Accessories,18.0,5.0,4.5,94.5,2027-04-07,15:13:00,Upi,90.0,4.7619,4.5,5.0,4.5,2027,4,April,Wednesday,7,15,94.5,0.0
+INV-10205,B,Nashik,Member,Male,Home And Lifestyle,84.26,5.0,21.06,442.36,2026-07-24,09:54:00,Upi,421.3,4.7619,21.06,3.0,21.06,2026,7,July,Friday,24,9,442.36,0.0
+INV-10231,C,Mumbai,Member,Female,Sports And Travel,47.09,6.0,14.13,296.67,2026-08-19,20:21:00,Cash,282.54,4.7619,14.13,4.5,14.13,2026,8,August,Wednesday,19,20,296.67,0.0
+INV-10191,A,Pune,Member,Female,Fashion Accessories,65.27,4.0,13.05,274.13,2026-07-10,17:35:00,Upi,261.08,4.7619,13.05,3.9,13.05,2026,7,July,Friday,10,17,274.13,0.0
+INV-10483,B,Nashik,Member,Male,Electronic Accessories,80.83,5.0,20.21,424.36,2027-04-28,09:12:00,Cash,404.15,4.7619,20.21,4.9,20.21,2027,4,April,Wednesday,28,9,424.36,0.0
+INV-10206,A,Pune,Normal,Male,Food And Beverages,54.59,4.0,10.92,229.28,2026-07-25,18:06:00,Upi,218.36,4.7619,10.92,4.2,10.92,2026,7,July,Saturday,25,18,229.28,0.0
+INV-10302,B,Nashik,Member,Male,Electronic Accessories,23.64,8.0,9.46,198.58,2026-10-29,18:35:00,Credit Card,189.12,4.7619,9.46,4.8,9.46,2026,10,October,Thursday,29,18,198.58,0.0
+INV-10171,C,Mumbai,Member,Male,Home And Lifestyle,71.29,9.0,32.08,673.69,2026-06-20,20:39:00,Upi,641.61,4.7619,32.08,4.2,32.08,2026,6,June,Saturday,20,20,673.69,0.0
+INV-10415,B,Nashik,Normal,Female,Food And Beverages,21.82,1.0,1.09,22.91,2027-02-19,09:24:00,Credit Card,21.82,4.7619,1.09,4.3,1.09,2027,2,February,Friday,19,9,22.91,0.0
+INV-10376,A,Pune,Member,Female,Fashion Accessories,78.99,10.0,39.5,829.4,2027-01-11,13:30:00,Upi,789.9,4.7619,39.5,4.5,39.5,2027,1,January,Monday,11,13,829.4,0.0
+INV-10057,A,Pune,Member,Female,Fashion Accessories,44.43,7.0,15.55,326.56,2026-02-26,12:29:00,Upi,311.01,4.7619,15.55,5.0,15.55,2026,2,February,Thursday,26,12,326.56,0.0
+INV-10149,A,Pune,Normal,Female,Sports And Travel,66.99,5.0,16.75,351.7,2026-05-29,17:34:00,Credit Card,334.95,4.7619,16.75,3.5,16.75,2026,5,May,Friday,29,17,351.7,0.0
+INV-10242,C,Mumbai,Member,Male,Sports And Travel,70.06,2.0,7.01,147.13,2026-08-30,20:10:00,Cash,140.12,4.7619,7.01,5.0,7.01,2026,8,August,Sunday,30,20,147.13,0.0
+INV-10088,B,Nashik,Member,Male,Fashion Accessories,45.19,6.0,13.56,284.7,2026-03-29,09:54:00,Upi,271.14,4.7619,13.56,5.0,13.56,2026,3,March,Sunday,29,9,284.7,0.0
+INV-10091,A,Pune,Member,Female,Sports And Travel,58.58,5.0,14.64,307.54,2026-04-01,12:07:00,Cash,292.9,4.7619,14.64,3.1,14.64,2026,4,April,Wednesday,1,12,307.54,0.0
+INV-10098,B,Nashik,Member,Female,Health And Beauty,83.69,2.0,8.37,175.75,2026-04-08,14:29:00,Credit Card,167.38,4.7619,8.37,4.1,8.37,2026,4,April,Wednesday,8,14,175.75,0.0
+INV-10059,A,Pune,Normal,Female,Food And Beverages,97.67,5.0,24.42,512.77,2026-02-28,11:07:00,Upi,488.35,4.7619,24.42,5.0,24.42,2026,2,February,Saturday,28,11,512.77,0.0
+INV-10117,C,Mumbai,Member,Male,Food And Beverages,20.96,6.0,6.29,132.05,2026-04-27,21:27:00,Credit Card,125.76,4.7619,6.29,4.8,6.29,2026,4,April,Monday,27,21,132.05,0.0
+INV-10499,C,Mumbai,Normal,Male,Home And Lifestyle,95.2,1.0,4.76,99.96,2027-05-14,10:25:00,Upi,95.2,4.7619,4.76,4.9,4.76,2027,5,May,Friday,14,10,99.96,0.0
+INV-10070,C,Mumbai,Member,Male,Electronic Accessories,55.62,9.0,25.03,525.61,2026-03-11,14:59:00,Cash,500.58,4.7619,25.03,3.5,25.03,2026,3,March,Wednesday,11,14,525.61,0.0
+INV-10337,C,Mumbai,Normal,Male,Sports And Travel,67.9,10.0,33.95,712.95,2026-12-03,19:10:00,Credit Card,679.0,4.7619,33.95,4.6,33.95,2026,12,December,Thursday,3,19,712.95,0.0
+INV-10307,B,Nashik,Normal,Female,Electronic Accessories,24.48,10.0,12.24,257.04,2026-11-03,20:39:00,Upi,244.8,4.7619,12.24,3.9,12.24,2026,11,November,Tuesday,3,20,257.04,0.0
+INV-10325,C,Mumbai,Normal,Male,Electronic Accessories,85.6,4.0,17.12,359.52,2026-11-21,09:38:00,Upi,342.4,4.7619,17.12,4.0,17.12,2026,11,November,Saturday,21,9,359.52,0.0
+INV-10402,C,Mumbai,Member,Female,Home And Lifestyle,51.56,2.0,5.16,108.28,2027-02-06,09:15:00,Upi,103.12,4.7619,5.16,5.0,5.16,2027,2,February,Saturday,6,9,108.28,0.0
+INV-10387,A,Pune,Normal,Female,Food And Beverages,95.53,1.0,4.78,100.31,2027-01-22,12:27:00,Upi,95.53,4.7619,4.78,3.5,4.78,2027,1,January,Friday,22,12,100.31,0.0
+INV-10214,A,Pune,Member,Male,Home And Lifestyle,98.94,3.0,14.84,311.66,2026-08-02,09:22:00,Upi,296.82,4.7619,14.84,4.1,14.84,2026,8,August,Sunday,2,9,311.66,0.0
+INV-10320,A,Pune,Member,Male,Health And Beauty,71.91,4.0,14.38,302.02,2026-11-16,17:28:00,Cash,287.64,4.7619,14.38,4.6,14.38,2026,11,November,Monday,16,17,302.02,0.0
+INV-10283,B,Nashik,Member,Female,Fashion Accessories,26.25,9.0,11.81,248.06,2026-10-10,10:25:00,Cash,236.25,4.7619,11.81,4.2,11.81,2026,10,October,Saturday,10,10,248.06,0.0
+INV-10310,A,Pune,Member,Male,Home And Lifestyle,76.75,9.0,34.54,725.29,2026-11-06,19:21:00,Credit Card,690.75,4.7619,34.54,3.6,34.54,2026,11,November,Friday,6,19,725.29,0.0
+INV-10358,B,Nashik,Member,Male,Health And Beauty,64.19,10.0,32.1,674.0,2026-12-24,16:40:00,Upi,641.9,4.7619,32.1,4.6,32.1,2026,12,December,Thursday,24,16,674.0,0.0
+INV-10322,C,Mumbai,Member,Female,Fashion Accessories,58.48,5.0,14.62,307.02,2026-11-18,11:19:00,Upi,292.4,4.7619,14.62,4.8,14.62,2026,11,November,Wednesday,18,11,307.02,0.0
+INV-10496,B,Nashik,Member,Female,Health And Beauty,69.37,6.0,20.81,437.03,2027-05-11,14:57:00,Upi,416.22,4.7619,20.81,4.0,20.81,2027,5,May,Tuesday,11,14,437.03,0.0
+INV-10226,A,Pune,Unknown,Male,Home And Lifestyle,99.24,4.0,19.85,416.81,2026-08-14,16:08:00,Upi,396.96,4.7619,19.85,3.8,19.85,2026,8,August,Friday,14,16,416.81,0.0
+INV-10090,B,Nashik,Member,Male,Home And Lifestyle,45.75,10.0,22.88,480.38,2026-03-31,18:09:00,Credit Card,457.5,4.7619,22.88,4.2,22.88,2026,3,March,Tuesday,31,18,480.38,0.0
+INV-10340,A,Pune,Normal,Male,Fashion Accessories,22.4,6.0,6.72,141.12,2026-12-06,09:16:00,Upi,134.4,4.7619,6.72,4.8,6.72,2026,12,December,Sunday,6,9,141.12,0.0
+INV-10324,A,Pune,Member,Female,Electronic Accessories,86.32,8.0,34.53,725.09,2026-11-20,11:34:00,Cash,690.56,4.7619,34.53,3.4,34.53,2026,11,November,Friday,20,11,725.09,0.0
+INV-10471,A,Pune,Normal,Female,Electronic Accessories,65.16,3.0,9.77,205.25,2027-04-16,19:04:00,Credit Card,195.48,4.7619,9.77,4.1,9.77,2027,4,April,Friday,16,19,205.25,0.0
+INV-10368,C,Mumbai,Member,Male,Health And Beauty,56.83,6.0,17.05,358.03,2027-01-03,10:28:00,Upi,340.98,4.7619,17.05,4.8,17.05,2027,1,January,Sunday,3,10,358.03,0.0
+INV-10456,B,Nashik,Member,Male,Electronic Accessories,95.23,10.0,47.62,999.92,2027-04-01,12:30:00,Cash,952.3,4.7619,47.62,3.8,47.62,2027,4,April,Thursday,1,12,999.92,0.0
+INV-10015,A,Pune,Member,Female,Fashion Accessories,83.68,7.0,29.29,615.05,2026-01-15,10:16:00,Credit Card,585.76,4.7619,29.29,3.6,29.29,2026,1,January,Thursday,15,10,615.05,0.0
+INV-10448,C,Mumbai,Normal,Male,Sports And Travel,66.2,9.0,29.79,625.59,2027-03-24,09:04:00,Upi,595.8,4.7619,29.79,3.7,29.79,2027,3,March,Wednesday,24,9,625.59,0.0
+INV-10490,C,Mumbai,Normal,Male,Health And Beauty,88.49,3.0,13.27,278.74,2027-05-05,21:23:00,Upi,265.47,4.7619,13.27,3.9,13.27,2027,5,May,Wednesday,5,21,278.74,0.0
+INV-10121,C,Mumbai,Member,Female,Fashion Accessories,17.2,8.0,6.88,144.48,2026-05-01,19:33:00,Cash,137.6,4.7619,6.88,4.6,6.88,2026,5,May,Friday,1,19,144.48,0.0
+INV-10043,A,Pune,Member,Male,Fashion Accessories,40.02,6.0,12.01,252.13,2026-02-12,18:48:00,Upi,240.12,4.7619,12.01,4.2,12.01,2026,2,February,Thursday,12,18,252.13,0.0
+INV-10197,C,Mumbai,Member,Male,Electronic Accessories,69.28,9.0,31.18,654.7,2026-07-16,20:57:00,Upi,623.52,4.7619,31.18,4.5,31.18,2026,7,July,Thursday,16,20,654.7,0.0
+INV-10034,C,Mumbai,Normal,Female,Health And Beauty,71.21,10.0,35.6,747.7,2026-02-03,11:53:00,Cash,712.1,4.7619,35.6,2.3,35.6,2026,2,February,Tuesday,3,11,747.7,0.0
+INV-10472,C,Mumbai,Normal,Female,Health And Beauty,30.35,1.0,1.52,31.87,2027-04-17,19:11:00,Upi,30.35,4.7619,1.52,3.8,1.52,2027,4,April,Saturday,17,19,31.87,0.0
+INV-10426,B,Nashik,Member,Male,Food And Beverages,97.74,2.0,9.77,205.25,2027-03-02,21:08:00,Cash,195.48,4.7619,9.77,4.3,9.77,2027,3,March,Tuesday,2,21,205.25,0.0
+INV-10281,C,Mumbai,Normal,Female,Electronic Accessories,77.34,10.0,38.67,812.07,2026-10-08,15:54:00,Upi,773.4,4.7619,38.67,4.6,38.67,2026,10,October,Thursday,8,15,812.07,0.0
+INV-10333,A,Pune,Member,Female,Food And Beverages,52.33,9.0,23.55,494.52,2026-11-29,09:57:00,Upi,470.97,4.7619,23.55,3.6,23.55,2026,11,November,Sunday,29,9,494.52,0.0
+INV-10300,A,Pune,Normal,Female,Electronic Accessories,65.07,3.0,9.76,204.97,2026-10-27,14:43:00,Upi,195.21,4.7619,9.76,3.8,9.76,2026,10,October,Tuesday,27,14,204.97,0.0
+INV-10305,C,Mumbai,Member,Male,Electronic Accessories,88.94,10.0,44.47,933.87,2026-11-01,19:20:00,Upi,889.4,4.7619,44.47,3.5,44.47,2026,11,November,Sunday,1,19,933.87,0.0
+INV-10017,A,Pune,Member,Male,Food And Beverages,40.35,2.0,4.04,84.74,2026-01-17,19:17:00,Credit Card,80.7,4.7619,4.04,4.1,4.04,2026,1,January,Saturday,17,19,84.74,0.0
+INV-10159,A,Pune,Normal,Female,Sports And Travel,68.87,6.0,20.66,433.88,2026-06-08,14:10:00,Upi,413.22,4.7619,20.66,3.5,20.66,2026,6,June,Monday,8,14,433.88,0.0
+INV-10244,B,Nashik,Normal,Female,Sports And Travel,32.99,2.0,3.3,69.28,2026-09-01,09:46:00,Cash,65.98,4.7619,3.3,3.9,3.3,2026,9,September,Tuesday,1,9,69.28,0.0
+INV-10067,A,Pune,Member,Female,Electronic Accessories,80.91,3.0,12.14,254.87,2026-03-08,09:54:00,Cash,242.73,4.7619,12.14,3.1,12.14,2026,3,March,Sunday,8,9,254.87,0.0
+INV-10420,C,Mumbai,Member,Female,Food And Beverages,35.45,3.0,5.32,111.67,2027-02-24,15:58:00,Cash,106.35,4.7619,5.32,3.8,5.32,2027,2,February,Wednesday,24,15,111.67,0.0
+INV-10439,C,Mumbai,Member,Male,Fashion Accessories,17.78,2.0,1.78,37.34,2027-03-15,11:39:00,Upi,35.56,4.7619,1.78,4.0,1.78,2027,3,March,Monday,15,11,37.34,0.0
+INV-10120,B,Nashik,Normal,Female,Electronic Accessories,30.93,1.0,1.55,32.48,2026-04-30,11:08:00,Cash,30.93,4.7619,1.55,4.4,1.55,2026,4,April,Thursday,30,11,32.48,0.0
+INV-10488,A,Pune,Member,Female,Electronic Accessories,54.75,4.0,10.95,229.95,2027-05-03,14:28:00,Cash,219.0,4.7619,10.95,2.4,10.95,2027,5,May,Monday,3,14,229.95,0.0
+INV-10066,B,Nashik,Normal,Female,Fashion Accessories,33.13,9.0,14.91,313.08,2026-03-07,10:39:00,Upi,298.17,4.7619,14.91,3.4,14.91,2026,3,March,Saturday,7,10,313.08,0.0
+INV-10467,A,Pune,Normal,Female,Electronic Accessories,46.36,8.0,18.54,389.42,2027-04-12,12:15:00,Credit Card,370.88,4.7619,18.54,3.6,18.54,2027,4,April,Monday,12,12,389.42,0.0
+INV-10010,C,Mumbai,Normal,Male,Health And Beauty,49.84,4.0,9.97,209.33,2026-01-10,14:10:00,Cash,199.36,4.7619,9.97,4.0,9.97,2026,1,January,Saturday,10,14,209.33,0.0
+INV-10019,B,Nashik,Normal,Male,Home And Lifestyle,79.54,5.0,19.89,417.59,2026-01-19,12:06:00,Credit Card,397.7,4.7619,19.89,3.3,19.89,2026,1,January,Monday,19,12,417.59,0.0
+INV-10154,B,Nashik,Normal,Male,Health And Beauty,69.02,1.0,3.45,72.47,2026-06-03,21:17:00,Cash,69.02,4.7619,3.45,3.9,3.45,2026,6,June,Wednesday,3,21,72.47,0.0
+INV-10330,A,Pune,Member,Female,Health And Beauty,71.05,9.0,31.97,671.42,2026-11-26,13:26:00,Credit Card,639.45,4.7619,31.97,3.4,31.97,2026,11,November,Thursday,26,13,671.42,0.0
+INV-10257,C,Mumbai,Normal,Male,Home And Lifestyle,65.48,10.0,32.74,687.54,2026-09-14,21:57:00,Cash,654.8,4.7619,32.74,5.0,32.74,2026,9,September,Monday,14,21,687.54,0.0
+INV-10309,C,Mumbai,Member,Male,Sports And Travel,83.06,8.0,33.22,697.7,2026-11-05,16:47:00,Credit Card,664.48,4.7619,33.22,2.8,33.22,2026,11,November,Thursday,5,16,697.7,0.0
+INV-10273,C,Mumbai,Member,Male,Home And Lifestyle,70.43,8.0,28.17,591.61,2026-09-30,14:40:00,Cash,563.44,4.7619,28.17,3.0,28.17,2026,9,September,Wednesday,30,14,591.61,0.0
+INV-10134,A,Pune,Normal,Male,Food And Beverages,60.8,4.0,12.16,255.36,2026-05-14,15:09:00,Upi,243.2,4.7619,12.16,4.6,12.16,2026,5,May,Thursday,14,15,255.36,0.0
+INV-10406,C,Mumbai,Unknown,Male,Home And Lifestyle,73.54,6.0,22.06,463.3,2027-02-10,17:16:00,Credit Card,441.24,4.7619,22.06,3.7,22.06,2027,2,February,Wednesday,10,17,463.3,0.0
+INV-10254,A,Pune,Member,Female,Electronic Accessories,53.74,2.0,5.37,112.85,2026-09-11,14:32:00,Upi,107.48,4.7619,5.37,2.8,5.37,2026,9,September,Friday,11,14,112.85,0.0
+INV-10271,C,Mumbai,Member,Male,Electronic Accessories,11.14,1.0,0.56,11.7,2026-09-28,10:10:00,Credit Card,11.14,4.7619,0.56,4.0,0.56,2026,9,September,Monday,28,10,11.7,0.0
+INV-10162,B,Nashik,Normal,Male,Sports And Travel,53.35,9.0,24.01,504.16,2026-06-11,12:44:00,Credit Card,480.15,4.7619,24.01,3.8,24.01,2026,6,June,Thursday,11,12,504.16,0.0
+INV-10287,B,Nashik,Normal,Male,Sports And Travel,34.24,1.0,1.71,35.95,2026-10-14,21:33:00,Upi,34.24,4.7619,1.71,4.2,1.71,2026,10,October,Wednesday,14,21,35.95,0.0
+INV-10401,A,Pune,Member,Male,Sports And Travel,43.92,10.0,21.96,461.16,2027-02-05,13:07:00,Credit Card,439.2,4.7619,21.96,4.0,21.96,2027,2,February,Friday,5,13,461.16,0.0
+INV-10336,A,Pune,Member,Female,Home And Lifestyle,44.68,3.0,6.7,140.74,2026-12-02,15:09:00,Cash,134.04,4.7619,6.7,3.3,6.7,2026,12,December,Wednesday,2,15,140.74,0.0
+INV-10341,B,Unknown,Member,Female,Fashion Accessories,69.67,9.0,31.35,658.38,2026-12-07,14:33:00,Upi,627.03,4.7619,31.35,3.6,31.35,2026,12,December,Monday,7,14,658.38,0.0
+INV-10428,C,Mumbai,Normal,Male,Home And Lifestyle,48.6,5.0,12.15,255.15,2027-03-04,14:19:00,Credit Card,243.0,4.7619,12.15,4.9,12.15,2027,3,March,Thursday,4,14,255.15,0.0
+INV-10002,C,Mumbai,Normal,Female,Health And Beauty,67.42,1.0,3.37,70.79,2026-01-02,18:11:00,Credit Card,67.42,4.7619,3.37,5.0,3.37,2026,1,January,Friday,2,18,70.79,0.0
+INV-10225,A,Pune,Normal,Female,Sports And Travel,51.58,10.0,25.79,541.59,2026-08-13,12:25:00,Upi,515.8,4.7619,25.79,4.5,25.79,2026,8,August,Thursday,13,12,541.59,0.0
+INV-10208,B,Nashik,Normal,Female,Health And Beauty,50.51,3.0,7.58,159.11,2026-07-27,20:15:00,Upi,151.53,4.7619,7.58,3.8,7.58,2026,7,July,Monday,27,20,159.11,0.0
+INV-10118,A,Pune,Member,Female,Home And Lifestyle,53.04,9.0,23.87,501.23,2026-04-28,19:56:00,Credit Card,477.36,4.7619,23.87,5.0,23.87,2026,4,April,Tuesday,28,19,501.23,0.0
+INV-10478,B,Nashik,Member,Female,Home And Lifestyle,18.78,8.0,7.51,157.75,2027-04-23,09:49:00,Cash,150.24,4.7619,7.51,4.5,7.51,2027,4,April,Friday,23,9,157.75,0.0
+INV-10355,A,Pune,Member,Female,Fashion Accessories,14.75,3.0,2.21,46.46,2026-12-21,18:19:00,Upi,44.25,4.7619,2.21,4.5,2.21,2026,12,December,Monday,21,18,46.46,0.0
+INV-10363,B,Nashik,Normal,Male,Sports And Travel,72.59,7.0,25.41,533.54,2026-12-29,12:57:00,Credit Card,508.13,4.7619,25.41,3.6,25.41,2026,12,December,Tuesday,29,12,533.54,0.0
+INV-10265,C,Mumbai,Member,Female,Home And Lifestyle,44.98,8.0,17.99,377.83,2026-09-22,14:28:00,Cash,359.84,4.7619,17.99,5.0,17.99,2026,9,September,Tuesday,22,14,377.83,0.0
+INV-10275,B,Nashik,Normal,Female,Electronic Accessories,89.13,1.0,4.46,93.59,2026-10-02,20:47:00,Cash,89.13,4.7619,4.46,3.7,4.46,2026,10,October,Friday,2,20,93.59,0.0
+INV-10071,C,Mumbai,Normal,Male,Sports And Travel,24.34,4.0,4.87,102.23,2026-03-12,10:01:00,Upi,97.36,4.7619,4.87,4.5,4.87,2026,3,March,Thursday,12,10,102.23,0.0
+INV-10129,A,Pune,Member,Male,Sports And Travel,10.03,5.0,2.51,52.66,2026-05-09,09:57:00,Upi,50.15,4.7619,2.51,4.3,2.51,2026,5,May,Saturday,9,9,52.66,0.0
+INV-10404,C,Mumbai,Normal,Male,Food And Beverages,49.17,1.0,2.46,51.63,2027-02-08,18:09:00,Upi,49.17,4.7619,2.46,4.0,2.46,2027,2,February,Monday,8,18,51.63,0.0
+INV-10099,A,Pune,Member,Female,Sports And Travel,39.03,9.0,17.56,368.83,2026-04-09,12:12:00,Upi,351.27,4.7619,17.56,4.6,17.56,2026,4,April,Thursday,9,12,368.83,0.0
+INV-10367,C,Mumbai,Member,Female,Health And Beauty,84.26,5.0,21.06,442.36,2027-01-02,16:35:00,Upi,421.3,4.7619,21.06,3.5,21.06,2027,1,January,Saturday,2,16,442.36,0.0
+INV-10022,A,Pune,Member,Male,Food And Beverages,63.62,10.0,31.81,668.01,2026-01-22,12:44:00,Credit Card,636.2,4.7619,31.81,4.2,31.81,2026,1,January,Thursday,22,12,668.01,0.0
+INV-10194,B,Nashik,Member,Male,Fashion Accessories,96.06,2.0,9.61,201.73,2026-07-13,09:19:00,Credit Card,192.12,4.7619,9.61,3.5,9.61,2026,7,July,Monday,13,9,201.73,0.0
+INV-10006,A,Pune,Member,Male,Fashion Accessories,22.76,3.0,3.41,71.69,2026-01-06,20:43:00,Upi,68.28,4.7619,3.41,4.7,3.41,2026,1,January,Tuesday,6,20,71.69,0.0
+INV-10412,C,Mumbai,Member,Male,Home And Lifestyle,10.63,6.0,3.19,66.97,2027-02-16,17:58:00,Upi,63.78,4.7619,3.19,4.0,3.19,2027,2,February,Tuesday,16,17,66.97,0.0
+INV-10314,C,Mumbai,Normal,Male,Health And Beauty,89.18,4.0,17.84,374.56,2026-11-10,21:44:00,Upi,356.72,4.7619,17.84,4.0,17.84,2026,11,November,Tuesday,10,21,374.56,0.0
+INV-10136,A,Pune,Member,Male,Health And Beauty,29.06,1.0,1.45,30.51,2026-05-16,13:42:00,Cash,29.06,4.7619,1.45,3.5,1.45,2026,5,May,Saturday,16,13,30.51,0.0
+INV-10494,A,Pune,Normal,Female,Health And Beauty,11.62,6.0,3.49,73.21,2027-05-09,21:09:00,Upi,69.72,4.7619,3.49,3.8,3.49,2027,5,May,Sunday,9,21,73.21,0.0
+INV-10378,A,Pune,Normal,Female,Electronic Accessories,36.95,3.0,5.54,116.39,2027-01-13,17:56:00,Cash,110.85,4.7619,5.54,3.3,5.54,2027,1,January,Wednesday,13,17,116.39,0.0
+INV-10328,B,Nashik,Member,Male,Health And Beauty,77.46,10.0,38.73,813.33,2026-11-24,21:51:00,Upi,774.6,4.7619,38.73,3.4,38.73,2026,11,November,Tuesday,24,21,813.33,0.0
+INV-10199,C,Mumbai,Member,Female,Health And Beauty,82.8,7.0,28.98,608.58,2026-07-18,14:52:00,Upi,579.6,4.7619,28.98,4.6,28.98,2026,7,July,Saturday,18,14,608.58,0.0
+INV-10416,B,Nashik,Member,Female,Fashion Accessories,45.9,2.0,4.59,96.39,2027-02-20,11:35:00,Upi,91.8,4.7619,4.59,4.9,4.59,2027,2,February,Saturday,20,11,96.39,0.0
+INV-10204,C,Mumbai,Member,Male,Electronic Accessories,80.31,5.0,20.08,421.63,2026-07-23,13:24:00,Cash,401.55,4.7619,20.08,4.5,20.08,2026,7,July,Thursday,23,13,421.63,0.0
+INV-10068,C,Mumbai,Member,Male,Electronic Accessories,87.82,1.0,4.39,92.21,2026-03-09,10:41:00,Upi,87.82,4.7619,4.39,4.2,4.39,2026,3,March,Monday,9,10,92.21,0.0
+INV-10224,B,Nashik,Normal,Male,Food And Beverages,44.88,3.0,6.73,141.37,2026-08-12,20:25:00,Upi,134.64,4.7619,6.73,3.8,6.73,2026,8,August,Wednesday,12,20,141.37,0.0
+INV-10128,C,Mumbai,Normal,Male,Home And Lifestyle,86.63,6.0,25.99,545.77,2026-05-08,11:36:00,Unknown,519.78,4.7619,25.99,2.7,25.99,2026,5,May,Friday,8,11,545.77,0.0
+INV-10144,A,Pune,Member,Male,Food And Beverages,80.44,7.0,28.15,591.23,2026-05-24,11:11:00,Upi,563.08,4.7619,28.15,4.6,28.15,2026,5,May,Sunday,24,11,591.23,0.0
+INV-10327,B,Nashik,Member,Female,Health And Beauty,10.99,1.0,0.55,11.54,2026-11-23,09:17:00,Cash,10.99,4.7619,0.55,3.3,0.55,2026,11,November,Monday,23,9,11.54,0.0
+INV-10140,C,Mumbai,Member,Female,Food And Beverages,36.76,2.0,3.68,77.2,2026-05-20,09:03:00,Cash,73.52,4.7619,3.68,3.9,3.68,2026,5,May,Wednesday,20,9,77.2,0.0
+INV-10219,B,Nashik,Member,Female,Electronic Accessories,69.31,8.0,27.72,582.2,2026-08-07,11:28:00,Upi,554.48,4.7619,27.72,3.7,27.72,2026,8,August,Friday,7,11,582.2,0.0
+INV-10380,A,Pune,Member,Female,Health And Beauty,67.38,9.0,30.32,636.74,2027-01-15,14:36:00,Cash,606.42,4.7619,30.32,4.2,30.32,2027,1,January,Friday,15,14,636.74,0.0
+INV-10331,B,Nashik,Member,Female,Food And Beverages,78.06,7.0,27.32,573.74,2026-11-27,10:03:00,Upi,546.42,4.7619,27.32,3.7,27.32,2026,11,November,Friday,27,10,573.74,0.0
+INV-10158,C,Mumbai,Member,Male,Electronic Accessories,46.43,10.0,23.22,487.52,2026-06-07,17:08:00,Upi,464.3,4.7619,23.22,4.6,23.22,2026,6,June,Sunday,7,17,487.52,0.0
+INV-10095,C,Mumbai,Normal,Male,Fashion Accessories,74.93,5.0,18.73,393.38,2026-04-05,10:27:00,Credit Card,374.65,4.7619,18.73,3.7,18.73,2026,4,April,Sunday,5,10,393.38,0.0
+INV-10256,B,Nashik,Normal,Female,Health And Beauty,56.87,6.0,17.06,358.28,2026-09-13,19:33:00,Upi,341.22,4.7619,17.06,3.8,17.06,2026,9,September,Sunday,13,19,358.28,0.0
+INV-10473,A,Pune,Normal,Male,Electronic Accessories,86.22,3.0,12.93,271.59,2027-04-18,09:05:00,Credit Card,258.66,4.7619,12.93,4.0,12.93,2027,4,April,Sunday,18,9,271.59,0.0
+INV-10132,A,Pune,Normal,Male,Home And Lifestyle,42.83,5.0,10.71,224.86,2026-05-12,20:26:00,Upi,214.15,4.7619,10.71,2.7,10.71,2026,5,May,Tuesday,12,20,224.86,0.0
+INV-10227,C,Mumbai,Member,Male,Sports And Travel,97.37,6.0,29.21,613.43,2026-08-15,15:04:00,Upi,584.22,4.7619,29.21,3.2,29.21,2026,8,August,Saturday,15,15,613.43,0.0
+INV-10040,B,Nashik,Member,Male,Sports And Travel,42.66,3.0,6.4,134.38,2026-02-09,17:29:00,Cash,127.98,4.7619,6.4,4.7,6.4,2026,2,February,Monday,9,17,134.38,0.0
+INV-10481,B,Nashik,Member,Male,Electronic Accessories,77.44,5.0,19.36,406.56,2027-04-26,19:01:00,Upi,387.2,4.7619,19.36,4.4,19.36,2027,4,April,Monday,26,19,406.56,0.0
+INV-10491,B,Nashik,Normal,Male,Home And Lifestyle,59.04,5.0,14.76,309.96,2027-05-06,10:09:00,Credit Card,295.2,4.7619,14.76,2.7,14.76,2027,5,May,Thursday,6,10,309.96,0.0
+INV-10190,A,Pune,Member,Male,Fashion Accessories,82.96,9.0,37.33,783.97,2026-07-09,21:42:00,Credit Card,746.64,4.7619,37.33,4.1,37.33,2026,7,July,Thursday,9,21,783.97,0.0
+INV-10446,C,Mumbai,Member,Male,Food And Beverages,84.51,5.0,21.13,443.68,2027-03-22,09:39:00,Upi,422.55,4.7619,21.13,4.3,21.13,2027,3,March,Monday,22,9,443.68,0.0
+INV-10433,B,Nashik,Normal,Female,Electronic Accessories,14.19,10.0,7.1,149.0,2027-03-09,09:16:00,Upi,141.9,4.7619,7.1,3.6,7.1,2027,3,March,Tuesday,9,9,149.0,0.0
+INV-10249,C,Mumbai,Normal,Female,Fashion Accessories,90.62,7.0,31.72,666.06,2026-09-06,10:25:00,Upi,634.34,4.7619,31.72,4.7,31.72,2026,9,September,Sunday,6,10,666.06,0.0
+INV-10039,C,Mumbai,Member,Female,Health And Beauty,44.06,3.0,6.61,138.79,2026-02-08,11:55:00,Credit Card,132.18,4.7619,6.61,3.8,6.61,2026,2,February,Sunday,8,11,138.79,0.0
+INV-10243,C,Mumbai,Normal,Male,Fashion Accessories,10.94,8.0,4.38,91.9,2026-08-31,19:00:00,Cash,87.52,4.7619,4.38,4.4,4.38,2026,8,August,Monday,31,19,91.9,0.0
+INV-10354,A,Pune,Normal,Female,Fashion Accessories,73.26,9.0,32.97,692.31,2026-12-20,12:22:00,Upi,659.34,4.7619,32.97,3.2,32.97,2026,12,December,Sunday,20,12,692.31,0.0
+INV-10410,A,Pune,Member,Female,Sports And Travel,91.85,4.0,18.37,385.77,2027-02-14,12:47:00,Upi,367.4,4.7619,18.37,4.0,18.37,2027,2,February,Sunday,14,12,385.77,0.0
+INV-10139,B,Nashik,Member,Female,Fashion Accessories,65.75,3.0,9.86,207.11,2026-05-19,20:10:00,Credit Card,197.25,4.7619,9.86,3.1,9.86,2026,5,May,Tuesday,19,20,207.11,0.0
+INV-10023,A,Pune,Normal,Female,Electronic Accessories,46.11,8.0,18.44,387.32,2026-01-23,09:16:00,Credit Card,368.88,4.7619,18.44,2.3,18.44,2026,1,January,Friday,23,9,387.32,0.0
+INV-10160,C,Mumbai,Normal,Male,Electronic Accessories,41.88,7.0,14.66,307.82,2026-06-09,14:55:00,Credit Card,293.16,4.7619,14.66,4.7,14.66,2026,6,June,Tuesday,9,14,307.82,0.0
+INV-10026,C,Mumbai,Member,Female,Fashion Accessories,65.54,4.0,13.11,275.27,2026-01-26,14:02:00,Credit Card,262.16,4.7619,13.11,5.0,13.11,2026,1,January,Monday,26,14,275.27,0.0
+INV-10184,C,Mumbai,Normal,Female,Electronic Accessories,33.94,8.0,13.58,285.1,2026-07-03,09:35:00,Cash,271.52,4.7619,13.58,5.0,13.58,2026,7,July,Friday,3,9,285.1,0.0
+INV-10241,C,Mumbai,Member,Male,Sports And Travel,97.84,6.0,29.35,616.39,2026-08-29,16:03:00,Upi,587.04,4.7619,29.35,4.8,29.35,2026,8,August,Saturday,29,16,616.39,0.0
+INV-10014,A,Pune,Normal,Female,Fashion Accessories,40.7,4.0,8.14,170.94,2026-01-14,17:50:00,Cash,162.8,4.7619,8.14,3.1,8.14,2026,1,January,Wednesday,14,17,170.94,0.0
+INV-10146,A,Pune,Normal,Female,Sports And Travel,26.0,8.0,10.4,218.4,2026-05-26,09:36:00,Upi,208.0,4.7619,10.4,2.7,10.4,2026,5,May,Tuesday,26,9,218.4,0.0
+INV-10409,C,Mumbai,Member,Male,Health And Beauty,91.35,2.0,9.14,191.84,2027-02-13,17:16:00,Upi,182.7,4.7619,9.14,3.9,9.14,2027,2,February,Saturday,13,17,191.84,0.0
+INV-10315,C,Mumbai,Normal,Male,Health And Beauty,45.5,2.0,6.92,95.55,2026-11-11,18:35:00,Credit Card,91.0,4.7619,4.55,3.7,4.55,2026,11,November,Wednesday,11,18,95.55,0.0
+INV-10362,B,Nashik,Member,Female,Home And Lifestyle,23.41,9.0,10.53,221.22,2026-12-28,17:26:00,Credit Card,210.69,4.7619,10.53,4.2,10.53,2026,12,December,Monday,28,17,221.22,0.0
+INV-10079,B,Nashik,Normal,Male,Fashion Accessories,55.88,2.0,5.59,117.35,2026-03-20,21:38:00,Cash,111.76,4.7619,5.59,4.2,5.59,2026,3,March,Friday,20,21,117.35,0.0
+INV-10321,B,Nashik,Normal,Male,Electronic Accessories,43.77,2.0,4.38,91.92,2026-11-17,15:48:00,Credit Card,87.54,4.7619,4.38,3.3,4.38,2026,11,November,Tuesday,17,15,91.92,0.0
+INV-10417,A,Pune,Member,Female,Home And Lifestyle,93.04,5.0,23.26,488.46,2027-02-21,09:40:00,Upi,465.2,4.7619,23.26,3.5,23.26,2027,2,February,Sunday,21,9,488.46,0.0
+INV-10498,A,Pune,Member,Female,Food And Beverages,32.99,5.0,8.25,173.2,2027-05-13,17:04:00,Cash,164.95,4.7619,8.25,4.5,8.25,2027,5,May,Thursday,13,17,173.2,0.0
+INV-10390,C,Mumbai,Member,Female,Health And Beauty,98.17,2.0,9.82,206.16,2027-01-25,17:04:00,Credit Card,196.34,4.7619,9.82,3.7,9.82,2027,1,January,Monday,25,17,206.16,0.0
+INV-10053,C,Mumbai,Normal,Female,Health And Beauty,10.11,3.0,1.52,31.85,2026-02-22,12:34:00,Upi,30.33,4.7619,1.52,3.8,1.52,2026,2,February,Sunday,22,12,31.85,0.0
+INV-10477,A,Pune,Normal,Female,Electronic Accessories,29.45,9.0,13.25,278.3,2027-04-22,16:58:00,Upi,265.05,4.7619,13.25,4.2,13.25,2027,4,April,Thursday,22,16,278.3,0.0
+INV-10035,C,Mumbai,Normal,Male,Home And Lifestyle,30.77,4.0,6.15,129.23,2026-02-04,18:41:00,Upi,123.08,4.7619,6.15,4.0,6.15,2026,2,February,Wednesday,4,18,129.23,0.0
+INV-10335,A,Pune,Normal,Male,Health And Beauty,21.22,2.0,2.12,44.56,2026-12-01,12:51:00,Cash,42.44,4.7619,2.12,4.5,2.12,2026,12,December,Tuesday,1,12,44.56,0.0
+INV-10487,A,Pune,Normal,Female,Health And Beauty,81.46,5.0,20.36,427.66,2027-05-02,15:18:00,Upi,407.3,4.7619,20.36,3.7,20.36,2027,5,May,Sunday,2,15,427.66,0.0
+INV-10377,C,Mumbai,Normal,Male,Electronic Accessories,76.03,2.0,7.6,159.66,2027-01-12,13:40:00,Cash,152.06,4.7619,7.6,3.2,7.6,2027,1,January,Tuesday,12,13,159.66,0.0
+INV-10185,A,Pune,Normal,Male,Food And Beverages,23.43,4.0,4.69,98.41,2026-07-04,18:34:00,Cash,93.72,4.7619,4.69,4.4,4.69,2026,7,July,Saturday,4,18,98.41,0.0
+INV-10312,A,Pune,Normal,Female,Fashion Accessories,35.01,7.0,12.25,257.32,2026-11-08,17:28:00,Credit Card,245.07,4.7619,12.25,4.6,12.25,2026,11,November,Sunday,8,17,257.32,0.0
+INV-10326,C,Mumbai,Normal,Male,Fashion Accessories,84.94,1.0,4.25,89.19,2026-11-22,19:25:00,Upi,84.94,4.7619,4.25,4.0,4.25,2026,11,November,Sunday,22,19,89.19,0.0
+INV-10188,B,Nashik,Member,Female,Food And Beverages,31.91,3.0,4.79,100.52,2026-07-07,20:53:00,Cash,95.73,4.7619,4.79,3.8,4.79,2026,7,July,Tuesday,7,20,100.52,0.0
+INV-10285,B,Nashik,Member,Female,Fashion Accessories,38.81,8.0,15.52,326.0,2026-10-12,20:50:00,Upi,310.48,4.7619,15.52,2.2,15.52,2026,10,October,Monday,12,20,326.0,0.0
+INV-10388,A,Pune,Member,Female,Food And Beverages,28.26,8.0,11.3,237.38,2027-01-23,20:37:00,Upi,226.08,4.7619,11.3,4.0,11.3,2027,1,January,Saturday,23,20,237.38,0.0
+INV-10461,A,Pune,Member,Female,Food And Beverages,47.62,5.0,11.9,250.0,2027-04-06,13:07:00,Upi,238.1,4.7619,11.9,4.8,11.9,2027,4,April,Tuesday,6,13,250.0,0.0
+INV-10166,C,Mumbai,Member,Male,Home And Lifestyle,32.37,10.0,16.18,339.88,2026-06-15,16:06:00,Credit Card,323.7,4.7619,16.18,4.4,16.18,2026,6,June,Monday,15,16,339.88,0.0
+INV-10396,C,Mumbai,Member,Female,Sports And Travel,93.67,8.0,37.47,786.83,2027-01-31,19:46:00,Upi,749.36,4.7619,37.47,5.0,37.47,2027,1,January,Sunday,31,19,786.83,0.0
+INV-10299,B,Nashik,Normal,Male,Health And Beauty,76.91,8.0,30.76,646.04,2026-10-26,14:28:00,Credit Card,615.28,4.7619,30.76,4.3,30.76,2026,10,October,Monday,26,14,646.04,0.0
+INV-10024,B,Nashik,Normal,Male,Fashion Accessories,43.03,8.0,17.21,361.45,2026-01-24,09:32:00,Credit Card,344.24,4.7619,17.21,5.0,17.21,2026,1,January,Saturday,24,9,361.45,0.0
+INV-10468,C,Mumbai,Member,Male,Electronic Accessories,58.83,3.0,8.82,185.31,2027-04-13,16:59:00,Upi,176.49,4.7619,8.82,4.0,8.82,2027,4,April,Tuesday,13,16,185.31,0.0
+INV-10348,A,Pune,Normal,Female,Food And Beverages,46.21,2.0,4.62,97.04,2026-12-14,18:50:00,Upi,92.42,4.7619,4.62,3.6,4.62,2026,12,December,Monday,14,18,97.04,0.0
+INV-10422,C,Mumbai,Normal,Male,Food And Beverages,13.27,10.0,6.64,139.34,2027-02-26,15:57:00,Credit Card,132.7,4.7619,6.64,3.8,6.64,2027,2,February,Friday,26,15,139.34,0.0
+INV-10183,C,Mumbai,Member,Male,Fashion Accessories,54.94,1.0,2.75,57.69,2026-07-02,10:21:00,Credit Card,54.94,4.7619,2.75,3.5,2.75,2026,7,July,Thursday,2,10,57.69,0.0
+INV-10344,B,Nashik,Normal,Male,Home And Lifestyle,12.62,3.0,1.89,39.75,2026-12-10,12:04:00,Upi,37.86,4.7619,1.89,4.0,1.89,2026,12,December,Thursday,10,12,39.75,0.0
+INV-10042,B,Nashik,Normal,Male,Fashion Accessories,50.17,8.0,20.07,421.43,2026-02-11,10:07:00,Credit Card,401.36,4.7619,20.07,4.6,20.07,2026,2,February,Wednesday,11,10,421.43,0.0
+INV-10357,A,Pune,Member,Female,Food And Beverages,63.94,7.0,22.38,469.96,2026-12-23,21:28:00,Upi,447.58,4.7619,22.38,4.5,22.38,2026,12,December,Wednesday,23,21,469.96,0.0
+INV-10237,A,Pune,Member,Male,Sports And Travel,56.32,7.0,19.71,413.95,2026-08-25,18:58:00,Credit Card,394.24,4.7619,19.71,4.4,19.71,2026,8,August,Tuesday,25,18,413.95,0.0
+INV-10430,A,Pune,Member,Male,Sports And Travel,34.13,5.0,8.53,179.18,2027-03-06,11:16:00,Upi,170.65,4.7619,8.53,3.2,8.53,2027,3,March,Saturday,6,11,179.18,0.0
+INV-10351,B,Nashik,Member,Female,Food And Beverages,75.11,8.0,30.04,630.92,2026-12-17,15:06:00,Cash,600.88,4.7619,30.04,3.1,30.04,2026,12,December,Thursday,17,15,630.92,0.0
+INV-10032,A,Pune,Normal,Male,Sports And Travel,34.4,8.0,13.76,288.96,2026-02-01,14:28:00,Credit Card,275.2,4.7619,13.76,3.5,13.76,2026,2,February,Sunday,1,14,288.96,0.0
+INV-10350,B,Nashik,Normal,Female,Home And Lifestyle,55.91,3.0,8.39,176.12,2026-12-16,20:06:00,Upi,167.73,4.7619,8.39,3.4,8.39,2026,12,December,Wednesday,16,20,176.12,0.0
+INV-10046,B,Nashik,Member,Female,Sports And Travel,96.55,7.0,33.79,709.64,2026-02-15,09:35:00,Cash,675.85,4.7619,33.79,3.8,33.79,2026,2,February,Sunday,15,9,709.64,0.0
+INV-10466,B,Nashik,Member,Male,Health And Beauty,30.47,1.0,1.52,31.99,2027-04-11,11:17:00,Credit Card,30.47,4.7619,1.52,3.8,1.52,2027,4,April,Sunday,11,11,31.99,0.0
+INV-10109,A,Pune,Normal,Male,Food And Beverages,64.57,1.0,3.23,67.8,2026-04-19,21:25:00,Credit Card,64.57,4.7619,3.23,4.7,3.23,2026,4,April,Sunday,19,21,67.8,0.0
+INV-10106,A,Pune,Member,Female,Sports And Travel,61.76,1.0,3.09,64.85,2026-04-16,20:48:00,Upi,61.76,4.7619,3.09,4.1,3.09,2026,4,April,Thursday,16,20,64.85,0.0
+INV-10150,A,Pune,Normal,Male,Sports And Travel,30.6,8.0,12.24,257.04,2026-05-30,10:13:00,Cash,244.8,4.7619,12.24,3.6,12.24,2026,5,May,Saturday,30,10,257.04,0.0
+INV-10030,A,Pune,Normal,Female,Health And Beauty,16.29,7.0,5.7,119.73,2026-01-30,15:15:00,Cash,114.03,4.7619,5.7,3.8,5.7,2026,1,January,Friday,30,15,119.73,0.0
+INV-10182,A,Pune,Member,Male,Fashion Accessories,68.15,9.0,30.67,644.02,2026-07-01,14:23:00,Upi,613.35,4.7619,30.67,4.7,30.67,2026,7,July,Wednesday,1,14,644.02,0.0
+INV-10110,A,Pune,Normal,Female,Home And Lifestyle,22.53,4.0,4.51,94.63,2026-04-20,10:31:00,Unknown,90.12,4.7619,4.51,3.5,4.51,2026,4,April,Monday,20,10,94.63,0.0
+INV-10123,A,Pune,Member,Male,Home And Lifestyle,20.98,7.0,7.34,154.2,2026-05-03,12:17:00,Cash,146.86,4.7619,7.34,4.1,7.34,2026,5,May,Sunday,3,12,154.2,0.0
+INV-10470,C,Mumbai,Member,Female,Food And Beverages,59.4,4.0,11.88,249.48,2027-04-15,20:52:00,Cash,237.6,4.7619,11.88,4.2,11.88,2027,4,April,Thursday,15,20,249.48,0.0
+INV-10105,C,Mumbai,Member,Female,Sports And Travel,93.95,6.0,28.18,591.88,2026-04-15,19:40:00,Upi,563.7,4.7619,28.18,4.1,28.18,2026,4,April,Wednesday,15,19,591.88,0.0
+INV-10061,B,Nashik,Normal,Male,Electronic Accessories,76.35,4.0,15.27,320.67,2026-03-02,20:12:00,Credit Card,305.4,4.7619,15.27,4.9,15.27,2026,3,March,Monday,2,20,320.67,0.0
+INV-10147,B,Nashik,Normal,Male,Sports And Travel,72.25,6.0,21.68,455.18,2026-05-27,14:47:00,Upi,433.5,4.7619,21.68,4.2,21.68,2026,5,May,Wednesday,27,14,455.18,0.0
+INV-10084,A,Pune,Member,Female,Electronic Accessories,24.56,9.0,11.05,232.09,2026-03-25,13:18:00,Upi,221.04,4.7619,11.05,3.8,11.05,2026,3,March,Wednesday,25,13,232.09,0.0
+INV-10316,C,Mumbai,Normal,Male,Home And Lifestyle,37.98,2.0,3.8,79.76,2026-11-12,17:53:00,Credit Card,75.96,4.7619,3.8,4.2,3.8,2026,11,November,Thursday,12,17,79.76,0.0
+INV-10382,C,Mumbai,Normal,Male,Food And Beverages,26.04,8.0,10.42,218.74,2027-01-17,16:06:00,Credit Card,208.32,4.7619,10.42,4.2,10.42,2027,1,January,Sunday,17,16,218.74,0.0
+INV-10423,A,Pune,Normal,Male,Sports And Travel,34.81,6.0,10.44,219.3,2027-02-27,15:56:00,Upi,208.86,4.7619,10.44,4.0,10.44,2027,2,February,Saturday,27,15,219.3,0.0
+INV-10431,A,Pune,Member,Female,Fashion Accessories,24.07,10.0,12.04,252.74,2027-03-07,09:11:00,Upi,240.7,4.7619,12.04,3.8,12.04,2027,3,March,Sunday,7,9,252.74,0.0
+INV-10228,B,Nashik,Normal,Male,Health And Beauty,94.81,8.0,37.92,796.4,2026-08-16,16:31:00,Upi,758.48,4.7619,37.92,4.2,37.92,2026,8,August,Sunday,16,16,796.4,0.0
+INV-10441,A,Pune,Member,Male,Sports And Travel,75.92,1.0,3.8,79.72,2027-03-17,10:54:00,Credit Card,75.92,4.7619,3.8,4.4,3.8,2027,3,March,Wednesday,17,10,79.72,0.0
+INV-10152,A,Pune,Normal,Male,Health And Beauty,29.87,3.0,4.48,94.09,2026-06-01,17:59:00,Credit Card,89.61,4.7619,4.48,3.8,4.48,2026,6,June,Monday,1,17,94.09,0.0
+INV-10001,B,Nashik,Normal,Male,Fashion Accessories,28.56,10.0,14.28,299.88,2026-01-01,12:40:00,Cash,285.6,4.7619,14.28,4.6,14.28,2026,1,January,Thursday,1,12,299.88,0.0
+INV-10268,C,Mumbai,Normal,Female,Electronic Accessories,93.55,8.0,37.42,785.82,2026-09-25,20:32:00,Credit Card,748.4,4.7619,37.42,3.6,37.42,2026,9,September,Friday,25,20,785.82,0.0
+INV-10442,C,Mumbai,Normal,Female,Electronic Accessories,59.35,4.0,11.87,249.27,2027-03-18,12:23:00,Upi,237.4,4.7619,11.87,4.7,11.87,2027,3,March,Thursday,18,12,249.27,0.0
+INV-10089,C,Mumbai,Member,Female,Home And Lifestyle,55.1,3.0,8.26,173.56,2026-03-30,15:31:00,Credit Card,165.3,4.7619,8.26,3.7,8.26,2026,3,March,Monday,30,15,173.56,0.0
+INV-10078,A,Pune,Normal,Male,Health And Beauty,31.51,6.0,9.45,198.51,2026-03-19,19:53:00,Credit Card,189.06,4.7619,9.45,5.0,9.45,2026,3,March,Thursday,19,19,198.51,0.0
+INV-10269,B,Nashik,Member,Male,Sports And Travel,70.84,1.0,3.54,74.38,2026-09-26,09:47:00,Upi,70.84,4.7619,3.54,4.6,3.54,2026,9,September,Saturday,26,9,74.38,0.0
+INV-10418,A,Pune,Normal,Female,Electronic Accessories,52.49,8.0,21.0,440.92,2027-02-22,16:01:00,Credit Card,419.92,4.7619,21.0,4.0,21.0,2027,2,February,Monday,22,16,440.92,0.0
+INV-10124,A,Pune,Normal,Male,Fashion Accessories,63.49,3.0,9.52,199.99,2026-05-04,11:12:00,Cash,190.47,4.7619,9.52,5.0,9.52,2026,5,May,Monday,4,11,199.99,0.0
+INV-10298,A,Pune,Normal,Male,Electronic Accessories,78.24,1.0,3.91,82.15,2026-10-25,16:49:00,Cash,78.24,4.7619,3.91,3.5,3.91,2026,10,October,Sunday,25,16,82.15,0.0
+INV-10370,A,Pune,Normal,Female,Sports And Travel,21.01,4.0,4.2,88.24,2027-01-05,18:03:00,Cash,84.04,4.7619,4.2,3.8,4.2,2027,1,January,Tuesday,5,18,88.24,0.0
+INV-10096,B,Nashik,Member,Male,Electronic Accessories,22.72,3.0,3.41,71.57,2026-04-06,12:52:00,Cash,68.16,4.7619,3.41,2.7,3.41,2026,4,April,Monday,6,12,71.57,0.0
+INV-10486,C,Mumbai,Normal,Male,Electronic Accessories,98.03,1.0,4.9,102.93,2027-05-01,15:13:00,Cash,98.03,4.7619,4.9,3.3,4.9,2027,5,May,Saturday,1,15,102.93,0.0
+INV-10012,C,Mumbai,Member,Male,Health And Beauty,75.21,6.0,22.56,473.82,2026-01-12,15:14:00,Cash,451.26,4.7619,22.56,3.5,22.56,2026,1,January,Monday,12,15,473.82,0.0
+INV-10115,B,Nashik,Normal,Male,Food And Beverages,84.27,8.0,33.71,707.87,2026-04-25,14:04:00,Credit Card,674.16,4.7619,33.71,3.4,33.71,2026,4,April,Saturday,25,14,707.87,0.0
+INV-10332,C,Mumbai,Member,Female,Health And Beauty,85.78,2.0,8.58,180.14,2026-11-28,09:49:00,Upi,171.56,4.7619,8.58,3.1,8.58,2026,11,November,Saturday,28,9,180.14,0.0
+INV-10429,B,Nashik,Normal,Male,Electronic Accessories,86.03,10.0,43.02,903.32,2027-03-05,12:52:00,Credit Card,860.3,4.7619,43.02,4.5,43.02,2027,3,March,Friday,5,12,903.32,0.0
+INV-10258,C,Mumbai,Normal,Female,Fashion Accessories,24.1,8.0,9.64,202.44,2026-09-15,13:45:00,Credit Card,192.8,4.7619,9.64,5.0,9.64,2026,9,September,Tuesday,15,13,202.44,0.0
+INV-10220,C,Mumbai,Normal,Male,Sports And Travel,82.19,7.0,28.77,604.1,2026-08-08,17:28:00,Upi,575.33,4.7619,28.77,4.5,28.77,2026,8,August,Saturday,8,17,604.1,0.0
+INV-10438,C,Mumbai,Normal,Male,Health And Beauty,79.47,4.0,15.89,333.77,2027-03-14,19:51:00,Cash,317.88,4.7619,15.89,4.3,15.89,2027,3,March,Sunday,14,19,333.77,0.0
+INV-10253,C,Mumbai,Normal,Male,Sports And Travel,20.26,9.0,9.12,191.46,2026-09-10,19:55:00,Credit Card,182.34,4.7619,9.12,3.6,9.12,2026,9,September,Thursday,10,19,191.46,0.0
+INV-10353,B,Nashik,Member,Male,Health And Beauty,30.29,1.0,1.51,31.8,2026-12-19,13:20:00,Upi,30.29,4.7619,1.51,3.4,1.51,2026,12,December,Saturday,19,13,31.8,0.0
+INV-10479,C,Mumbai,Normal,Female,Sports And Travel,87.58,10.0,43.79,919.59,2027-04-24,17:18:00,Credit Card,875.8,4.7619,43.79,3.3,43.79,2027,4,April,Saturday,24,17,919.59,0.0
+INV-10262,C,Mumbai,Member,Female,Food And Beverages,18.55,9.0,8.35,175.3,2026-09-19,18:45:00,Upi,166.95,4.7619,8.35,2.9,8.35,2026,9,September,Saturday,19,18,175.3,0.0
+INV-10444,B,Nashik,Normal,Female,Health And Beauty,89.39,6.0,26.82,563.16,2027-03-20,11:05:00,Cash,536.34,4.7619,26.82,5.0,26.82,2027,3,March,Saturday,20,11,563.16,0.0
+INV-10179,C,Mumbai,Normal,Male,Fashion Accessories,13.84,4.0,2.77,58.13,2026-06-28,13:43:00,Upi,55.36,4.7619,2.77,3.4,2.77,2026,6,June,Sunday,28,13,58.13,0.0
+INV-10411,A,Pune,Normal,Male,Home And Lifestyle,80.22,8.0,32.09,673.85,2027-02-15,12:46:00,Cash,641.76,4.7619,32.09,3.1,32.09,2027,2,February,Monday,15,12,673.85,0.0
+INV-10279,C,Mumbai,Normal,Male,Health And Beauty,29.9,5.0,7.48,156.98,2026-10-06,13:24:00,Credit Card,149.5,4.7619,7.48,3.7,7.48,2026,10,October,Tuesday,6,13,156.98,0.0
+INV-10020,A,Pune,Member,Female,Food And Beverages,33.84,3.0,5.08,106.6,2026-01-20,21:34:00,Upi,101.52,4.7619,5.08,4.4,5.08,2026,1,January,Tuesday,20,21,106.6,0.0
+INV-10356,B,Nashik,Member,Male,Health And Beauty,53.79,1.0,2.69,56.48,2026-12-22,10:51:00,Upi,53.79,4.7619,2.69,4.2,2.69,2026,12,December,Tuesday,22,10,56.48,0.0
+INV-10170,B,Nashik,Member,Female,Sports And Travel,62.39,7.0,21.84,458.57,2026-06-19,20:20:00,Credit Card,436.73,4.7619,21.84,3.2,21.84,2026,6,June,Friday,19,20,458.57,0.0
+INV-10240,A,Pune,Member,Male,Health And Beauty,30.51,3.0,4.58,96.11,2026-08-28,13:07:00,Credit Card,91.53,4.7619,4.58,3.5,4.58,2026,8,August,Friday,28,13,96.11,0.0
+INV-10278,B,Nashik,Normal,Female,Food And Beverages,67.25,5.0,16.81,353.06,2026-10-05,20:10:00,Credit Card,336.25,4.7619,16.81,3.9,16.81,2026,10,October,Monday,5,20,353.06,0.0
+INV-10161,B,Nashik,Member,Male,Electronic Accessories,57.3,6.0,17.19,360.99,2026-06-10,14:32:00,Credit Card,343.8,4.7619,17.19,3.6,17.19,2026,6,June,Wednesday,10,14,360.99,0.0
+INV-10074,C,Mumbai,Normal,Female,Food And Beverages,30.46,5.0,7.62,159.92,2026-03-15,20:33:00,Cash,152.3,4.7619,7.62,4.9,7.62,2026,3,March,Sunday,15,20,159.92,0.0
+INV-10018,B,Nashik,Normal,Female,Electronic Accessories,91.5,3.0,13.73,288.23,2026-01-18,20:50:00,Cash,274.5,4.7619,13.73,4.0,13.73,2026,1,January,Sunday,18,20,288.23,0.0
+INV-10063,C,Mumbai,Member,Male,Electronic Accessories,31.93,10.0,15.97,335.27,2026-03-04,10:44:00,Cash,319.3,4.7619,15.97,3.9,15.97,2026,3,March,Wednesday,4,10,335.27,0.0
+INV-10250,C,Mumbai,Normal,Male,Electronic Accessories,39.0,6.0,11.7,245.7,2026-09-07,09:49:00,Credit Card,234.0,4.7619,11.7,4.9,11.7,2026,9,September,Monday,7,9,245.7,0.0
+INV-10229,C,Mumbai,Member,Male,Health And Beauty,80.55,5.0,20.14,422.89,2026-08-17,12:49:00,Credit Card,402.75,4.7619,20.14,4.1,20.14,2026,8,August,Monday,17,12,422.89,0.0
+INV-10239,B,Nashik,Member,Female,Health And Beauty,80.42,6.0,24.13,506.65,2026-08-27,19:12:00,Cash,482.52,4.7619,24.13,3.3,24.13,2026,8,August,Thursday,27,19,506.65,0.0
+INV-10230,B,Nashik,Member,Female,Fashion Accessories,41.94,3.0,6.29,132.11,2026-08-18,19:14:00,Upi,125.82,4.7619,6.29,3.3,6.29,2026,8,August,Tuesday,18,19,132.11,0.0
+INV-10319,A,Pune,Member,Male,Food And Beverages,65.35,1.0,3.27,68.62,2026-11-15,11:00:00,Upi,65.35,4.7619,3.27,4.4,3.27,2026,11,November,Sunday,15,11,68.62,0.0
+INV-10284,A,Pune,Member,Female,Sports And Travel,14.85,9.0,6.68,140.33,2026-10-11,14:03:00,Cash,133.65,4.7619,6.68,3.8,6.68,2026,10,October,Sunday,11,14,140.33,0.0
+INV-10048,B,Nashik,Normal,Male,Electronic Accessories,77.94,5.0,19.48,409.18,2026-02-17,09:14:00,Upi,389.7,4.7619,19.48,4.5,19.48,2026,2,February,Tuesday,17,9,409.18,0.0
+INV-10251,A,Pune,Member,Male,Health And Beauty,21.27,6.0,6.38,134.0,2026-09-08,13:19:00,Upi,127.62,4.7619,6.38,4.5,6.38,2026,9,September,Tuesday,8,13,134.0,0.0
+INV-10080,A,Pune,Member,Female,Health And Beauty,84.28,6.0,25.28,530.96,2026-03-21,13:38:00,Credit Card,505.68,4.7619,25.28,4.1,25.28,2026,3,March,Saturday,21,13,530.96,0.0
+INV-10296,B,Nashik,Normal,Female,Food And Beverages,40.81,7.0,14.28,299.95,2026-10-23,15:16:00,Credit Card,285.67,4.7619,14.28,4.7,14.28,2026,10,October,Friday,23,15,299.95,0.0
+INV-10485,B,Nashik,Normal,Male,Sports And Travel,42.04,5.0,10.51,220.71,2027-04-30,15:14:00,Cash,210.2,4.7619,10.51,5.0,10.51,2027,4,April,Friday,30,15,220.71,0.0
+INV-10457,A,Pune,Normal,Male,Home And Lifestyle,97.06,2.0,9.71,203.83,2027-04-02,12:43:00,Cash,194.12,4.7619,9.71,4.6,9.71,2027,4,April,Friday,2,12,203.83,0.0
+INV-10425,A,Pune,Member,Male,Home And Lifestyle,80.84,3.0,12.13,254.65,2027-03-01,19:40:00,Upi,242.52,4.7619,12.13,3.9,12.13,2027,3,March,Monday,1,19,254.65,0.0
+INV-10193,C,Mumbai,Normal,Female,Food And Beverages,45.32,8.0,18.13,380.69,2026-07-12,18:37:00,Upi,362.56,4.7619,18.13,4.1,18.13,2026,7,July,Sunday,12,18,380.69,0.0
+INV-10131,B,Nashik,Normal,Male,Home And Lifestyle,64.23,9.0,28.9,606.97,2026-05-11,21:32:00,Upi,578.07,4.7619,28.9,3.5,28.9,2026,5,May,Monday,11,21,606.97,0.0
+INV-10216,A,Pune,Normal,Female,Fashion Accessories,14.3,2.0,1.43,30.03,2026-08-04,16:44:00,Upi,28.6,4.7619,1.43,3.5,1.43,2026,8,August,Tuesday,4,16,30.03,0.0
+INV-10245,A,Pune,Member,Female,Home And Lifestyle,33.46,7.0,11.71,245.93,2026-09-02,12:37:00,Cash,234.22,4.7619,11.71,3.7,11.71,2026,9,September,Wednesday,2,12,245.93,0.0
+INV-10364,B,Nashik,Member,Female,Food And Beverages,77.13,8.0,30.85,647.89,2026-12-30,11:36:00,Cash,617.04,4.7619,30.85,3.4,30.85,2026,12,December,Wednesday,30,11,647.89,0.0
+INV-10060,A,Pune,Normal,Male,Sports And Travel,11.8,2.0,1.18,24.78,2026-03-01,11:13:00,Credit Card,23.6,4.7619,1.18,4.3,1.18,2026,3,March,Sunday,1,11,24.78,0.0
+INV-10222,B,Nashik,Member,Male,Health And Beauty,13.2,6.0,3.96,83.16,2026-08-10,20:12:00,Upi,79.2,4.7619,3.96,3.6,3.96,2026,8,August,Monday,10,20,83.16,0.0
+INV-10177,C,Mumbai,Member,Female,Electronic Accessories,27.9,6.0,8.37,175.77,2026-06-26,09:53:00,Credit Card,167.4,4.7619,8.37,3.7,8.37,2026,6,June,Friday,26,9,175.77,0.0
+INV-10450,A,Pune,Normal,Male,Sports And Travel,98.16,2.0,9.82,206.14,2027-03-26,14:39:00,Credit Card,196.32,4.7619,9.82,4.2,9.82,2027,3,March,Friday,26,14,206.14,0.0
+INV-10056,C,Mumbai,Member,Male,Food And Beverages,52.74,1.0,2.64,55.38,2026-02-25,10:45:00,Cash,52.74,4.7619,2.64,5.0,2.64,2026,2,February,Wednesday,25,10,55.38,0.0
+INV-10292,A,Pune,Normal,Female,Food And Beverages,18.27,3.0,2.74,57.55,2026-10-19,21:41:00,Credit Card,54.81,4.7619,2.74,3.8,2.74,2026,10,October,Monday,19,21,57.55,0.0
+INV-10255,A,Pune,Member,Female,Food And Beverages,92.83,1.0,4.64,97.47,2026-09-12,10:37:00,Upi,92.83,4.7619,4.64,5.0,4.64,2026,9,September,Saturday,12,10,97.47,0.0
+INV-10408,A,Pune,Member,Male,Sports And Travel,14.49,8.0,5.8,121.72,2027-02-12,18:21:00,Cash,115.92,4.7619,5.8,5.0,5.8,2027,2,February,Friday,12,18,121.72,0.0
+INV-10386,C,Mumbai,Member,Female,Sports And Travel,76.6,4.0,15.32,321.72,2027-01-21,14:46:00,Upi,306.4,4.7619,15.32,3.8,15.32,2027,1,January,Thursday,21,14,321.72,0.0
+INV-10437,A,Pune,Member,Female,Electronic Accessories,38.37,6.0,11.51,241.73,2027-03-13,09:18:00,Upi,230.22,4.7619,11.51,4.8,11.51,2027,3,March,Saturday,13,9,241.73,0.0
+INV-10198,C,Mumbai,Normal,Female,Fashion Accessories,94.85,8.0,37.94,796.74,2026-07-17,20:26:00,Credit Card,758.8,4.7619,37.94,4.6,37.94,2026,7,July,Friday,17,20,796.74,0.0
+INV-10069,A,Pune,Normal,Female,Electronic Accessories,64.76,4.0,12.95,271.99,2026-03-10,20:15:00,Upi,259.04,4.7619,12.95,3.4,12.95,2026,3,March,Tuesday,10,20,271.99,0.0
+INV-10211,B,Nashik,Normal,Male,Food And Beverages,50.56,9.0,22.75,477.79,2026-07-30,15:35:00,Credit Card,455.04,4.7619,22.75,3.0,22.75,2026,7,July,Thursday,30,15,477.79,0.0
+INV-10233,B,Nashik,Normal,Female,Health And Beauty,84.75,9.0,38.14,800.89,2026-08-21,19:25:00,Cash,762.75,4.7619,38.14,3.4,38.14,2026,8,August,Friday,21,19,800.89,0.0
+INV-10202,A,Pune,Member,Female,Health And Beauty,93.73,2.0,9.37,196.83,2026-07-21,13:05:00,Credit Card,187.46,4.7619,9.37,3.8,9.37,2026,7,July,Tuesday,21,13,196.83,0.0
+INV-10169,A,Pune,Member,Female,Food And Beverages,81.13,4.0,16.23,340.75,2026-06-18,14:43:00,Credit Card,324.52,4.7619,16.23,4.0,16.23,2026,6,June,Thursday,18,14,340.75,0.0
+INV-10186,B,Nashik,Normal,Male,Food And Beverages,21.45,9.0,9.65,202.7,2026-07-05,17:02:00,Credit Card,193.05,4.7619,9.65,4.1,9.65,2026,7,July,Sunday,5,17,202.7,0.0
+INV-10036,C,Mumbai,Normal,Female,Fashion Accessories,51.12,6.0,15.34,322.06,2026-02-05,13:15:00,Cash,306.72,4.7619,15.34,4.9,15.34,2026,2,February,Thursday,5,13,322.06,0.0
+INV-10130,B,Nashik,Member,Female,Electronic Accessories,11.59,3.0,1.74,36.51,2026-05-10,15:25:00,Upi,34.77,4.7619,1.74,5.0,1.74,2026,5,May,Sunday,10,15,36.51,0.0

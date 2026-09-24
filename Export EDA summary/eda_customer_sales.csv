@@ -1,0 +1,4 @@
+customer_type,total_sales,transactions,avg_transaction,units_sold
+Member,79595.58,253,314.6070355731225,1373.0
+Normal,68380.93000000001,244,280.2497131147541,1271.0
+Unknown,1003.34,3,334.44666666666666,13.0
